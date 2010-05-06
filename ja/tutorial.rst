@@ -434,8 +434,8 @@ template 内での使用例
 
 index へのアクセス時にログインが必要になっている事を確認してみましょう。
 
-ゲストブックの実装 - Step1
---------------------------
+ゲストブックの実装 - Step 1
+---------------------------
 
 このチュートリアルでは簡単なゲストブックを作成します。その過程で、Kay
 の機能をできるだけ紹介していく予定です。
@@ -609,8 +609,8 @@ kind が ``myapp_comment`` というのが今回作成したコメントのエ�
 lowercase したものを kind として使用します。この挙動を抑制するには
 ``settings.py`` にて ``ADD_APP_PREFIX_TO_KIND`` を False に設定します。
 
-ゲストブックの実装 - Step2
---------------------------
+ゲストブックの実装 - Step 2
+---------------------------
 
 現在の実装だと投稿しても表示されないので実感がわきません。そこで最新20
 件のコメントを表示するようにしてみましょう。
@@ -761,18 +761,16 @@ myapp/models.py:
    )
    from myapp.models import Category
 
-   categories = {
-     1: u'Programming',
-     2: u'Testing',
-     3: u'Management',
-   }
+   categories = [
+     u'Programming',
+     u'Testing',
+     u'Management',
+   ]
 
    def create_categories():
      entities = []
-     for idnum, name in categories.iteritems():
-       entities.append(
-	 Category(name=name,
-		  key=db.Key.from_path(Category.kind(), idnum)))
+     for name in categories:
+       entities.append(Category(name=name))
      db.put(entities)
      print_status("Categories are created succesfully.")
 
@@ -809,6 +807,9 @@ myapp/models.py:
 ``Category`` を追加した後で、アプリケーションにアクセスしてみましょう。
 三つの選択肢が選べるようになっていれば成功です。
 
+いくつかコメントをカテゴリを指定して投稿し、データストアビューアーで確
+認してみましょう。
+
 .. Note::
 
    管理用スクリプトを追加する方法について詳しく知るには `カスタムの管理
@@ -817,3 +818,322 @@ myapp/models.py:
    ださい。
 
 
+カテゴリーの表示
+================
+
+コメントの一覧にカテゴリーを表示するようにしてみましょう。コメントの一
+覧を表示している部分を下記のように変更します。
+
+.. code-block:: python
+
+     {% if comments %}
+       <div id="comment_list">
+	 <ul>
+	 {% for comment in comments %}
+	   <li>{{ comment.body }}
+	     <span class="author"> by {{ comment.user }}</span>
+	     {% if comment.category %}
+	       <br>
+	       <span class="category"> in {{ comment.category.name }}</span>
+	     {% endif %}
+	 {% endfor %}
+	 </ul>
+       </div>
+     {% endif %}
+
+
+GRUDの自動生成
+==============
+
+次にこのカテゴリを管理する画面を作成してみます。管理者のみがアクセス可
+能な、カテゴリの追加・削除・変更ができる画面を作成します。
+
+まず ``Category`` 用のフォームを作成します。
+
+myapp/forms.py:
+
+.. code-block:: python
+
+   # -*- coding: utf-8 -*-
+
+   from kay.utils import forms
+   from kay.utils.forms.modelform import ModelForm
+
+   from myapp.models import (
+     Comment, Category
+   )
+
+   class CommentForm(ModelForm):
+     class Meta:
+       model = Comment
+       exclude = ('user', 'created')
+
+   class CategoryForm(ModelForm):
+     class Meta:
+       model = Category
+
+``Category`` をインポートし、新たに ``CategoryForm`` を定義しています。
+
+次に myapp/urls.py を下記のように変更します。
+
+.. code-block:: python
+
+   from kay import generics
+   from kay.routing import (
+     ViewGroup, Rule
+   )
+
+   class CategoryCRUDViewGroup(generics.CRUDViewGroup):
+     model = 'myapp.models.Category'
+     form = 'myapp.forms.CategoryForm'
+     authorize = generics.admin_required
+
+   view_groups = [
+     ViewGroup(
+       Rule('/', endpoint='index', view='myapp.views.index'),
+     ),
+     CategoryCRUDViewGroup(),
+   ]
+
+最後に ``settings.py`` の ``MIDDLEWARE_CLASSES`` に
+``kay.utils.flash.FlashMiddleware`` を追加します。
+
+.. code-block:: python
+
+   MIDDLEWARE_CLASSES = (
+     'kay.auth.middleware.AuthenticationMiddleware',
+     'kay.utils.flash.FlashMiddleware',
+   )
+
+これで http://localhost:8080/category/list にアクセスするとカテゴリーの
+リストが表示されるはずです。追加や編集などを試してみてください。
+
+.. Note::
+
+   CRUDの自動生成について、さらに詳しくは `汎用ビューグループ
+   <http://kay-docs-jp.shehas.net/generic_views.html>`_ をご覧下さい。
+
+
+カテゴリー削除時の対処
+======================
+
+既に気づいた方もいらっしゃるかも知れませんが、この段階で、コメントが一
+つ以上属しているカテゴリーを削除すると、コメントの表示時にエラーになっ
+てしまいます。
+
+ここでは、カスケードデリートを実装するために ``db_hook`` の仕組みを使用
+しましょう。
+
+もしエラーになってしまった方は、当該のコメントをデータストアビューアー
+から消去するか、開発用サーバーを一度止めて ``python manage.py
+runserver -c`` と -c を付けてデータを全削除し、再度カテゴリー・コメント
+を作成してから進んでください。
+
+
+まずは ``settings.py`` で ``db_hook`` の仕組みを有効にします。
+
+.. code-block:: python
+
+   USE_DB_HOOK = True
+
+次に下記のようにして myapp/__init__.py でフック関数を登録します。
+
+myapp/__init__.py:
+
+.. code-block:: python
+
+   # -*- coding: utf-8 -*-
+   # Kay application: myapp
+
+   from google.appengine.ext import db
+
+   from kay.utils.db_hook import register_pre_delete_hook
+
+   from myapp.models import (
+     Comment, Category
+   )
+
+   def cascade_delete(key):
+     entities = Comment.all(keys_only=True).filter('category =', key).fetch(2000)
+     db.delete(entities)
+
+   register_pre_delete_hook(cascade_delete, Category)
+
+ここでは ad-hoc に 2000 件のみ取得して消去していますが、実際にきちんと
+実装するにはもう少しがんばってください。
+
+この状態でカテゴリーを消去すると、そのカテゴリーに属するコメントもそれ
+に伴って削除されるはずです。
+
+.. Note::
+
+   db_hook 機能についてさらに詳しくは `db_hook 機能を使用する
+   <http://kay-docs-jp.shehas.net/db_hook.html>`_ をご覧下さい。
+
+
+ゲストブックの実装 - Step 4
+---------------------------
+
+次にアプリケーションを国際化してみましょう。Kay では gettext ベースの国
+際化機能が備わっています。
+
+国際化を有効にする
+==================
+
+まずは ``settings.py`` で ``USE_I18N`` を True に設定します。
+
+.. code-block:: python
+
+   USE_I18N = True
+
+この段階で、中途半端に国際化されている事と思います。accept_language で
+日本語を優先した状態でアクセスすると、トップページの ``submit`` が ``送
+信`` に変わっている事がわかります。
+
+国際化のためにメッセージをマークする
+====================================
+
+まずはフォームに表示するフィールドのタイトルをマークします。
+
+myapp/models.py:
+
+.. code-block:: python
+
+   # -*- coding: utf-8 -*-
+   # myapp.models
+
+   from google.appengine.ext import db
+   from kay.auth.models import GoogleUser
+   import kay.db
+   from kay.i18n import lazy_gettext as _
+
+   # Create your models here.
+
+   class MyUser(GoogleUser):
+     pass
+
+   class Category(db.Model):
+     name = db.StringProperty(required=True, verbose_name=_(u'Name'))
+
+     def __unicode__(self):
+       return self.name
+
+   class Comment(db.Model):
+     user = kay.db.OwnerProperty()
+     category = db.ReferenceProperty(Category, verbose_name=_(u'Category'))
+     body = db.StringProperty(required=True, verbose_name=_(u'Your Comment'))
+     created = db.DateTimeProperty(auto_now_add=True)
+
+``kay.i18n.lazy_gettext`` を ``_`` として import しています。更にフォー
+ムに表示するフィールドには ``verbose_name`` という引数を渡すようにして、
+値を ``_()`` の呼び出しで囲んでおきます。
+
+次はテンプレート内部の文字列をマークしましょう。ここでは練習のため二つ
+の方法を試します。
+
+myapp/templates/index.html:
+
+.. code-block:: html
+
+     <div id="greeting">
+       {% if request.user.is_anonymous() %}
+	 <a href="{{ create_login_url() }}">{{ _('login') }}</a>
+       {% else %}
+	 Hello {{ request.user }}! <a href="{{ create_logout_url() }}">
+	   {% trans %}logout{% endtrans %}
+	 </a>
+       {% endif %}
+     </div>
+
+翻訳を作成する
+==============
+
+下記のコマンドでマークした文字列を抽出します。
+
+.. code-block:: bash
+
+   $ python manage.py extract_messages -a
+   Running on Kay-0.10.0
+   Extracting from /Users/tmatsuo/work/kay-tutorial/myproject/myapp
+   myapp/__init__.py
+   myapp/forms.py
+   myapp/management.py
+   myapp/models.py
+   myapp/urls.py
+   myapp/views.py
+   myapp/templates/index.html
+   All done.
+
+日本語用の po ファイルを作成します。
+
+.. code-block:: bash
+
+   $ python manage.py add_translations -a -l ja
+   Running on Kay-0.10.0
+   Creating myapp/i18n/ja/LC_MESSAGES/messages.po.
+   Cant open file. Skipped myapp/i18n/jsmessages.pot.
+   Created catalog for ja
+   Cant open file. Skipped /Users/tmatsuo/work/kay-tutorial/myproject/i18n/messages.pot.
+   Cant open file. Skipped /Users/tmatsuo/work/kay-tutorial/myproject/i18n/jsmessages.pot.
+   Created catalog for ja
+
+myapp/i18n/ja/LC_MESSAGES/messages.po をエディタで編集します。
+
+.. code-block:: po
+
+   # Japanese translations for PROJECT.
+   # Copyright (C) 2010 Takashi Matsuo
+   # This file is distributed under the same license as the PROJECT project.
+   # FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+   #
+   msgid ""
+   msgstr ""
+   "Project-Id-Version: myproject-0.1\n"
+   "Report-Msgid-Bugs-To: tmatsuo@candit.jp\n"
+   "POT-Creation-Date: 2010-05-06 16:39+0900\n"
+   "PO-Revision-Date: 2010-05-06 16:39+0900\n"
+   "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+   "Language-Team: ja <LL@li.org>\n"
+   "Plural-Forms: nplurals=1; plural=0\n"
+   "MIME-Version: 1.0\n"
+   "Content-Type: text/plain; charset=utf-8\n"
+   "Content-Transfer-Encoding: 8bit\n"
+   "Generated-By: Babel None\n"
+
+   #: myapp/models.py:15
+   msgid "Name"
+   msgstr "カテゴリー名"
+
+   #: myapp/models.py:22
+   msgid "Category"
+   msgstr "カテゴリー"
+
+   #: myapp/models.py:23
+   msgid "Your Comment"
+   msgstr "コメント"
+
+   #: myapp/templates/index.html:11
+   msgid "login"
+   msgstr "ログイン"
+
+   #: myapp/templates/index.html:14
+   msgid "logout"
+   msgstr "ログアウト"
+
+.. Note::
+
+   このファイルは文字コードを UTF-8 で保存してください。
+
+上記のように編集した後に、このファイルをコンパイルします。
+
+.. code-block:: bash
+
+   $ python manage.py compile_translations -a
+   Running on Kay-0.10.0
+   Compiling myapp/i18n
+   Compiling myapp/i18n/ja/LC_MESSAGES/messages.po 
+   All done.
+   i18n folder missing
+
+これでアプリケーションにアクセスすれば、翻訳文字列を準備した場所では日
+本語が表示されているはずです。

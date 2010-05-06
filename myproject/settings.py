@@ -25,7 +25,7 @@ ADMINS = (
 TEMPLATE_DIRS = (
 )
 
-USE_I18N = False
+USE_I18N = True
 DEFAULT_LANG = 'en'
 
 INSTALLED_APPS = (
@@ -45,6 +45,9 @@ CONTEXT_PROCESSORS = (
 
 MIDDLEWARE_CLASSES = (
   'kay.auth.middleware.AuthenticationMiddleware',
+  'kay.utils.flash.FlashMiddleware',
 )
 
 AUTH_USER_MODEL = 'myapp.models.MyUser'
+
+USE_DB_HOOK = True

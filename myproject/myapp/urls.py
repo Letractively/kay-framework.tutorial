@@ -18,13 +18,20 @@ all_views = {
 }
 """
 
+from kay import generics
 from kay.routing import (
   ViewGroup, Rule
 )
 
+class CategoryCRUDViewGroup(generics.CRUDViewGroup):
+  model = 'myapp.models.Category'
+  form = 'myapp.forms.CategoryForm'
+  authorize = generics.admin_required
+
 view_groups = [
   ViewGroup(
     Rule('/', endpoint='index', view='myapp.views.index'),
-  )
+  ),
+  CategoryCRUDViewGroup(),
 ]
 

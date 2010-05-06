@@ -1,0 +1,54 @@
+from __future__ import division
+from jinja2.runtime import LoopContext, TemplateReference, Macro, Markup, TemplateRuntimeError, missing, concat, escape, markup_join, unicode_join, to_string, TemplateNotFound
+name = '/index.html'
+
+def root(context, environment=environment):
+    l_create_login_url = context.resolve('create_login_url')
+    l_form = context.resolve('form')
+    l_request = context.resolve('request')
+    l_gettext = context.resolve('gettext')
+    l_create_logout_url = context.resolve('create_logout_url')
+    l_comments = context.resolve('comments')
+    l__ = context.resolve('_')
+    t_1 = environment.filters['safe']
+    if 0: yield None
+    yield u'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">\n<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">\n<title>Top Page - myapp</title>\n</head>\n<body>\n\n  <div id="greeting">\n    '
+    if context.call(environment.getattr(environment.getattr(l_request, 'user'), 'is_anonymous')):
+        if 0: yield None
+        yield u'\n      <a href="%s">%s</a>\n    ' % (
+            escape(context.call(l_create_login_url)), 
+            escape(context.call(l__, 'login')), 
+        )
+    else:
+        if 0: yield None
+        yield u'\n      Hello %s! <a href="%s">\n        ' % (
+            escape(environment.getattr(l_request, 'user')), 
+            escape(context.call(l_create_logout_url)), 
+        )
+        yield escape(Markup(context.call(l_gettext, u'logout')))
+        yield u'\n      </a>\n    '
+    yield u'\n  </div>\n\n  <div id="main_form">\n    %s\n  </div>\n\n  ' % (
+        escape(t_1(context.call(l_form))), 
+    )
+    if l_comments:
+        if 0: yield None
+        yield u'\n    <div id="comment_list">\n      <ul>\n      '
+        l_comment = missing
+        for l_comment in l_comments:
+            if 0: yield None
+            yield u'\n        <li>%s\n          <span class="author"> by %s</span>\n          ' % (
+                escape(environment.getattr(l_comment, 'body')), 
+                escape(environment.getattr(l_comment, 'user')), 
+            )
+            if environment.getattr(l_comment, 'category'):
+                if 0: yield None
+                yield u'\n            <br>\n            <span class="category"> in %s</span>\n          ' % (
+                    escape(environment.getattr(environment.getattr(l_comment, 'category'), 'name')), 
+                )
+            yield u'\n      '
+        l_comment = missing
+        yield u'\n      </ul>\n    </div>\n  '
+    yield u'\n</body>\n</html>'
+
+blocks = {}
+debug_info = '1=15&10=16&11=19&12=24&13=25&14=28&16=30&20=31&23=33&26=37&27=40&28=41&29=43&31=46&32=48&33=50&36=51'

@@ -7,18 +7,16 @@ from kay.management.utils import (
 )
 from myapp.models import Category
 
-categories = {
-  1: u'Programming',
-  2: u'Testing',
-  3: u'Management',
-}
+categories = [
+  u'Programming',
+  u'Testing',
+  u'Management',
+]
 
 def create_categories():
   entities = []
-  for idnum, name in categories.iteritems():
-    entities.append(
-      Category(name=name,
-               key=db.Key.from_path(Category.kind(), idnum)))
+  for name in categories:
+    entities.append(Category(name=name))
   db.put(entities)
   print_status("Categories are created succesfully.")
 

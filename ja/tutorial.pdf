@@ -4,10 +4,10 @@
 1 0 obj
 % The standard fonts dictionary
 << /F1 2 0 R
- /F2+0 27 0 R
- /F2+1 31 0 R
+ /F2+0 35 0 R
+ /F2+1 39 0 R
  /F3 3 0 R
- /F4+0 35 0 R
+ /F4+0 43 0 R
  /F5 7 0 R >>
 endobj
 % 'F1': class PDFType1Font 
@@ -47,12 +47,12 @@ endobj
 5 0 obj
 % Page dictionary
 << /Annots [ 4 0 R ]
- /Contents 67 0 R
+ /Contents 82 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -66,12 +66,12 @@ endobj
 % 'Page2': class PDFPage 
 6 0 obj
 % Page dictionary
-<< /Contents 68 0 R
+<< /Contents 83 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -110,12 +110,12 @@ endobj
 9 0 obj
 % Page dictionary
 << /Annots [ 8 0 R ]
- /Contents 69 0 R
+ /Contents 84 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -129,12 +129,12 @@ endobj
 % 'Page4': class PDFPage 
 10 0 obj
 % Page dictionary
-<< /Contents 70 0 R
+<< /Contents 85 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -148,12 +148,12 @@ endobj
 % 'Page5': class PDFPage 
 11 0 obj
 % Page dictionary
-<< /Contents 71 0 R
+<< /Contents 86 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -167,12 +167,12 @@ endobj
 % 'Page6': class PDFPage 
 12 0 obj
 % Page dictionary
-<< /Contents 72 0 R
+<< /Contents 87 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -186,12 +186,12 @@ endobj
 % 'Page7': class PDFPage 
 13 0 obj
 % Page dictionary
-<< /Contents 73 0 R
+<< /Contents 88 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -221,12 +221,12 @@ endobj
 15 0 obj
 % Page dictionary
 << /Annots [ 14 0 R ]
- /Contents 74 0 R
+ /Contents 89 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -272,12 +272,12 @@ endobj
 % Page dictionary
 << /Annots [ 16 0 R
  17 0 R ]
- /Contents 75 0 R
+ /Contents 90 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -291,12 +291,12 @@ endobj
 % 'Page10': class PDFPage 
 19 0 obj
 % Page dictionary
-<< /Contents 76 0 R
+<< /Contents 91 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -310,12 +310,12 @@ endobj
 % 'Page11': class PDFPage 
 20 0 obj
 % Page dictionary
-<< /Contents 77 0 R
+<< /Contents 92 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -329,12 +329,12 @@ endobj
 % 'Page12': class PDFPage 
 21 0 obj
 % Page dictionary
-<< /Contents 78 0 R
+<< /Contents 93 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -364,12 +364,155 @@ endobj
 23 0 obj
 % Page dictionary
 << /Annots [ 22 0 R ]
- /Contents 79 0 R
+ /Contents 94 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 66 0 R
+ /Parent 81 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+24 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://localhost:8080/category/list) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 96.34291
+ 432.7736
+ 272.7029
+ 444.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+25 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://kay-docs-jp.shehas.net/generic_views.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 277.9729
+ 353.7736
+ 367.9729
+ 365.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page14': class PDFPage 
+26 0 obj
+% Page dictionary
+<< /Annots [ 24 0 R
+ 25 0 R ]
+ /Contents 95 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 81 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+27 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://kay-docs-jp.shehas.net/db_hook.html) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 255.7829
+ 432.9736
+ 369.2229
+ 444.9736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page15': class PDFPage 
+28 0 obj
+% Page dictionary
+<< /Annots [ 27 0 R ]
+ /Contents 96 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 81 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page16': class PDFPage 
+29 0 obj
+% Page dictionary
+<< /Contents 97 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 81 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page17': class PDFPage 
+30 0 obj
+% Page dictionary
+<< /Contents 98 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 81 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page18': class PDFPage 
+31 0 obj
+% Page dictionary
+<< /Contents 99 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 81 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -381,7 +524,7 @@ endobj
  /Type /Page >>
 endobj
 % 'toUnicodeCMap:AAAAAA+VL-PGothic-Regular': class PDFStream 
-24 0 obj
+32 0 obj
 << /Length 3442 >>
 stream
 /CIDInit /ProcSet findresource begin
@@ -662,7 +805,7 @@ endendstream
 
 endobj
 % 'fontFile:/Users/tmatsuo/Library/Fonts/VL-PGothic-Regular.ttf(AAAAAA+VL-PGothic-Regular)': class PDFStream 
-25 0 obj
+33 0 obj
 << /Length 28336
  /Length1 28336 >>
 stream
@@ -768,7 +911,7 @@ All rights reserved.  V L   P G o t h i c  VL PGothic  r e g u l a r  regular  F
 
 endobj
 % 'fontDescriptor:AAAAAA+VL-PGothic-Regular': class PDFDictionary 
-26 0 obj
+34 0 obj
 << /Ascent 860
  /CapHeight 860
  /Descent -140
@@ -777,22 +920,22 @@ endobj
  -320
  1405
  1075 ]
- /FontFile2 25 0 R
+ /FontFile2 33 0 R
  /FontName /AAAAAA+VL-PGothic-Regular
  /ItalicAngle 0
  /StemV 87
  /Type /FontDescriptor >>
 endobj
 % 'F2+0': class PDFTrueTypeFont 
-27 0 obj
+35 0 obj
 % Font VL-PGothic-Regular subset 0
 << /BaseFont /AAAAAA+VL-PGothic-Regular
  /FirstChar 0
- /FontDescriptor 26 0 R
+ /FontDescriptor 34 0 R
  /LastChar 255
  /Name /F2+0
  /Subtype /TrueType
- /ToUnicode 24 0 R
+ /ToUnicode 32 0 R
  /Type /Font
  /Widths [ 432
  432
@@ -1052,8 +1195,8 @@ endobj
  1000 ] >>
 endobj
 % 'toUnicodeCMap:AAAAAB+VL-PGothic-Regular': class PDFStream 
-28 0 obj
-<< /Length 2950 >>
+36 0 obj
+<< /Length 3322 >>
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -1066,9 +1209,9 @@ begincmap
 /CMapName /AAAAAB+VL-PGothic-Regular def
 /CMapType 2 def
 1 begincodespacerange
-<00> <D6>
+<00> <F5>
 endcodespacerange
-215 beginbfchar
+246 beginbfchar
 <00> <4F8B>
 <01> <7DE8>
 <02> <96C6>
@@ -1284,6 +1427,37 @@ endcodespacerange
 <D4> <4E09>
 <D5> <8A73>
 <D6> <77E5>
+<D7> <53EF>
+<D8> <524A>
+<D9> <9664>
+<DA> <6C4E>
+<DB> <51E6>
+<DC> <3083>
+<DD> <4EE5>
+<DE> <5C5E>
+<DF> <8A72>
+<E0> <6D88>
+<E1> <53BB>
+<E2> <6B62>
+<E3> <5168>
+<E4> <518D>
+<E5> <9032>
+<E6> <5F97>
+<E7> <4F34>
+<E8> <56FD>
+<E9> <5316>
+<EA> <9014>
+<EB> <534A>
+<EC> <7AEF>
+<ED> <8A9E>
+<EE> <512A>
+<EF> <9001>
+<F0> <4FE1>
+<F1> <7DF4>
+<F2> <7FD2>
+<F3> <7FFB>
+<F4> <8A33>
+<F5> <62BD>
 endbfchar
 endcmap
 CMapName currentdict /CMap defineresource pop
@@ -1292,12 +1466,12 @@ endendstream
 
 endobj
 % 'fontFile:/Users/tmatsuo/Library/Fonts/VL-PGothic-Regular.ttf(AAAAAB+VL-PGothic-Regular)': class PDFStream 
-29 0 obj
-<< /Length 41780
- /Length1 41780 >>
+37 0 obj
+<< /Length 47844
+ /Length1 47844 >>
 stream
-     Ä  POS/2%À>›   ‹   Vcmap./U  4  ƒcvt ÛS  ¯   fpgmÄ¡∆_    ∞glyfôÓ˘∂  ∏  è¥head-Ÿ7  îl   6hhea¿!  î§   $hmtxGf0ë  î»  `loca”JØË  ò(  ≤maxpE  ô‹    name ˚Ï9  ô¸  	postˇÜ 2  £    prepπèÑ   £,    Óê   äª   åäª  ﬂ 1 · ˇj«Ì˚      VL   @ ˇˇ\ˇt  Ì`ü’              ∏     ◊         	 
-                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~  Ä Å Ç É Ñ Ö Ü á à â ä ã å ç é è ê ë í ì î ï ñ ó ò ô ö õ ú ù û ü † ° ¢ £ § • ¶ ß ® © ™ ´ ¨ ≠ Æ Ø ∞ ± ≤ ≥ ¥ µ ∂ ∑ ∏ π ∫ ª º Ω æ ø ¿ ¡ ¬ √ ƒ ≈ ∆ « » …   À Ã Õ Œ œ – — “ ” ‘ ’ ÷ ◊ !y ‹  ⁄Ó  ∞ ,∞ K∞*PX∞JvY∞ #?∞+X=YK∞*PX}Y ‘∞.-∞, ⁄∞+-∞,KRXE#Y!-∞,i ∞@PX!∞@Y-∞,∞+X!#!zX›ÕYKRXX˝ÌY#!∞+X∞FvYX›ÕYYY-∞,\Z-∞,±"àPX∞ à\\∞ Y-∞,±$àPX∞@à\\∞ Y-∞, 9/-∞	, }∞+XƒÕY ∞%I# ∞&J∞ PXäeäa ∞ PX8!!Yääa ∞ RX8!!YY-∞
+     Ä  POS/2%À>›   ‹   Vcmap<ë=  4  cvt ÛS  8   fpgmÄ¡∆_  H  ∞glyfÖf4  ¯  ¶lhead-Ÿ7  ´d   6hhea¿@  ´ú   $hmtx¿è5Ì  ´¿  ‹loca[ÖD  Øú  maxp#E  ±å    name ˚Ï9  ±¨  	postˇÜ 2  ∫º    prepπèÑ   ∫‹    Óê   äª   åäª  ﬂ 1 · ˇj«Ì˚      VL   @ ˇˇ\ˇt  Ì`ü’              ˆ     ˆ         	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~  Ä Å Ç É Ñ Ö Ü á à â ä ã å ç é è ê ë í ì î ï ñ ó ò ô ö õ ú ù û ü † ° ¢ £ § • ¶ ß ® © ™ ´ ¨ ≠ Æ Ø ∞ ± ≤ ≥ ¥ µ ∂ ∑ ∏ π ∫ ª º Ω æ ø ¿ ¡ ¬ √ ƒ ≈ ∆ « » …   À Ã Õ Œ œ – — “ ” ‘ ’ ÷ ◊ ÿ Ÿ ⁄ € ‹ › ﬁ ﬂ ‡ · ‚ „ ‰ Â Ê Á Ë È Í Î Ï Ì Ó Ô  Ò Ú Û Ù ı ˆ   !y ‹  ⁄Ó  ∞ ,∞ K∞*PX∞JvY∞ #?∞+X=YK∞*PX}Y ‘∞.-∞, ⁄∞+-∞,KRXE#Y!-∞,i ∞@PX!∞@Y-∞,∞+X!#!zX›ÕYKRXX˝ÌY#!∞+X∞FvYX›ÕYYY-∞,\Z-∞,±"àPX∞ à\\∞ Y-∞,±$àPX∞@à\\∞ Y-∞, 9/-∞	, }∞+XƒÕY ∞%I# ∞&J∞ PXäeäa ∞ PX8!!Yääa ∞ RX8!!YY-∞
 ,∞+X!!Y-∞, “∞+-∞, /∞+\X  G#Faj X db8!!Y!Y-∞,  9/ ä GäFa#ä ä#J∞ PX#∞ RX∞@8!Y#∞ PX∞@e8!YY-∞,∞+X=÷!! ÷äKRX ä#I ∞ UX8!!Y!!YY-∞,# ÷ /∞+\X# XKS!∞YXä∞&I#ä# äIä#a8!!!!Y!!!!!Y-  !  nö   .± /<≤ Ì2±‹<≤ Ì2 ± /<≤ Ì2≤¸<≤ Ì23!%!!!M˛‘˛ıö˝f!X    ˇ©§*   . 9  3#"/3265'3%767#'67#5!#3'67&'#'6YK<7A;+
 ¨H˛l'B=#†4T2v#jé€÷	∂è+ôTHK"!v0F˝S+F*:s˝ç›;'+_m´q3ÆˆBB;B;√˛√M9WÆ2È˝ö’:5QΩñ    %ˇ©∂. G M Q Y ] a e i  767.'#'?'767677&'76=!!!#"'5#5##5##'67&675!326=#'5#;5#35#%!5!;!
 7\KÇF*q+"-%?/;%@2<N_Ñ<$Ù˛Wº8
@@ -1460,13 +1634,44 @@ p6/f˛ï:mN-0I˛Ô     ˇ©—&  6 S  767!5!&''67&'>=!3276767
  É
 361& ˇ	π>0]j8˛i—ˇ ˇH˛˛ƒ>tcê°msûéh_˛î}}KD+Ø?3mW1U∆¨c˝, ""∫Ü\eóAíCuuCíAµvM+B.Z]+B)Od?®ÈY2-∏  5ˇ≤≥G  $ * 0 G  !#5!53!#%3#3#+'26=#535&'767767!5!&''67&_˝7MâPäM˝ÏôôΩΩ_C∫∫ÊA	?˛Y<A;≤@#HS!˛Ãx&fIl"rOJd&aFT§Öƒddƒ?K?_A˜>'E-˜AÈ˝€mi
 k•éwã¶õiy§==∆êR9B>UU>B9Pt  2ˇ©∂I    ! - 2  %5!'673&'#5!#7&%'67%!#5!53!#!&'‚˛$‘·±`±·"30O˛$O03‰+´}/˛√kø!ØhÌ˝6LâPâL˝ƒÆniiΩΩºz©©z<˛‘66,Ã4w}1~zíe8bÖèŒddŒˇNff  IˇÙü‹     5!5!5!»X˝l–¸ÌV^DD8FF˝^FF     -ˇ§«7 # ' + / 3 7 =  %3##5!5!5#535#53&'73673#3#5!%5!%5!%5!35##!◊Oˇ  ﬂﬂ˚î"!E&&Ñ2G+t·ŒŒ˝y˛Â˛¬^˛æ&‹óóJ'’DËËD©AûCK9?XVA:MCûAa@@é??çCCéAA˝IÄø,+ˇ  3ˇæ•? # + /  53=#'67!#3#&''>7#5##3#9’R.?G&D
-#ó¶™\[>BOoF-XnõKIIzE‘_Xåº4)C‘E#ãô*u{aû.=>«zr¸’??+˝We     ËıNÏ&°_<ı Ë    ∆÷5    ∆÷5ˇS˛¿}3             Ì˛Ú  òˇS˛æ}                ÿ∞ !Ë Ë %Ë  Ë %Ë Ë 9Ë +Ë Ë 9Ë 0Ë äË gË *Ë WË 5Ë 2Ë 5Ë !Ë Ë EË Ë !Ë FË )¯ Ë Ë "Ë 7Ë&Ë CË "Ë 9m  Ë ?Ë /Ë &Ë >Ë :Ë DË 5Ë .Ë wË SË 2Ë =Ë ÖË KË {Ë Ë 2Ë 9Ë `Ë (Ë +Ë ¿Ë Ë Ë 2Ë NË &˘ >Ë üË RË 5Ë dË "Ë iË ∑Ë üË fË PË Ë Ë KË -Ë XË "Ë HË 0Ë Ë ?Ë gË ]Ë )Ë HË BË "Ë \Ë +Ë PË 6Ë Ë 2Ë Ë FË DË CË MË 8Ë 3Ë WË +Ë /Ë Ë +Ë #Ë #Ë -Ë <Ë (Ë Ë "Ë IË aË aË /Ë Ë Ë Ë ~Ë -Ë Ë 2Ë ZË Ë (¯ Ë Ë Ë %Ë 7Ë Ë qË 2Ë +Ë (Ë 2Ë Ë NË .Ë CË &Ë )Ë (Ë Ë Ë Ë 4Ë Ë +Ë Ë Ë Ë (Ë #Ë 2Ë 2Ë #Ë !Ë ZË Ë #Ë Ë !Ë ñË /Ë Ë Ë (Ë Ë 4Ë Ë &Ë Ë (Ë 9Ë 2 ¢Ë +Ë -Ë K¯ Ë CË WË ñË FË 0Ë >Ë ZË %Ë 1Ë $Ë Ë <Ë ÑË "Ë &Ë Ë Ë ;Ë Ë Ë %Ë 8Ë &Ë &Ë Ë MË 1Ë Ë 5Ë 2Ë IË -Ë 3   , à(äÙå‡0vÚ4néÃ∫ò“ZúVƒ	6	Ñ
+#ó¶™\[>BOoF-XnõKIIzE‘_Xåº4)C‘E#ãô*u{aû.=>«zr¸’??+˝We   9ˇøØ      %!5!##"/326%!!#! ˝9v`)TáÑ*˝Ì(˛ÿOƒ:ÇDD˝ÇV)A‡˛∂Pÿ˛x    ?ˇ∑ï      3 7 ;  3#"/3265'3'67&'333#"/326=!!5!!5JK&J,UO*  Jè$8?/+˛Ñ,.@!8ºKªH_J
+˛“.˛“.˝T*G*Bs˝ç~^n]lYnQu¸ƒ[˛Ú˛"U%C+Dƒ≤h•ss  Mˇ∞…% # < B H M  !#"/3265#535#5'673&'#4&'67##!+'326%7&67!&'Æ˛˜!H&OJ"
+¯¯™*:†}P¢);¶˛l&7I.ïI%/C0'@E+ “8dJ:K˝”n<?<y}hbST~A˛¯V(D+Aà+ $DféèeD**àx6UAtà¸‚\>Ör>e=F@@#'Åç'å[kîûtkM^`   ˇ¥”     B  %'675&'77&7&?>7'&'.5!'>5
+:f?b<Qc-dQ≥-ZJ.I_;LD<F ˇB#
+
+˛ƒXl2CI ˜≤ë)ç®^MJ6IM<6DE6D~)ì·)Ï_˝B 2?52A="
+å˛Ù ﬁJ>-o£B  $ˇÆ∏)  < D  63;#"&''67&''>=!32>7#"&567#7$a Gﬂ	q?œ®¬Œ¨⁄HQz'zN2$%˘:B57//
+
+?< ˛.Jü*V∑7@˛”…`QDRctR;Uz_îNAõäπ–C::Æ≤∆˝Ì#*KQ4@? 
+#A›˛JôÀG?è     äˇ¡Uq )  7632#"'732654&#"'&''7'767ÊE$.,N^eV840/8@94#B4Z;8G5;®≠4E3X8^Ç^NT`A;349	ml!≈”ÃƒA?C•¢    ˇ´”   $  3&''>%7&67'673#O.4g\=U[:µà$aànC-˛18wd;eÚê¨˛ÒÎ&JL∆˛Ó`tã(}jMr2A$Gbq£¬/zñ+ñ˛].IBu8D	ì   ˇ≥ò  8 B F J N  %2326=#7' %!+!#"/''675##!5+5!5#'6!!5#!35#'!5!Ë)#4ˇm˛GR)	êìM∆J;Y––T~ÚK=√HÖê+h;V˝BQ∆˛Ú√√}o˝ëßOO
+óV+ü$91ø'Ÿ>?:<
+]ˇ:'ø-N˛◊ :æ'9∂˛ÎYYYÙ@     -ˇ§Õ;      : > D  5!%5!%5!%5!6$7&'767#53533#67'67&35##!P˛Ë˛≈V˛∆"üU8?^dL7Jeï∑,044‰ÚNÚ˙?H2%lB>M˝ùyct˛£õõF$@@é??çCCéAA˝41Ãà(gYFh4jIz7G9*>UCkkCpT/&c$ì›9C-Mx˛QÄø,+ˇ  (ˇ∂≠(   ! ' - 3 7 ;  "/326=!#333'67'&'77&%'67&'!5!!5-ns
+˛`MıM¯ ˝Ø;f>c:
+Qb,^W≥-TP.M*@AC%˛/<A55h†˛`†FC,H…c˛Ú˛U%?¥è)ë§^NI6CS<6>K6HY^ntUMyj\˛yh¶tt  <ˇ±¨( !  %7''767!5!5!5!53!!!!67&äCÅ]D7˛å˛•ëO?˛¿ê˛∂JPJ˛∂ê˛$8Oƒ˚B˛%Æ†$[1D†µD¿BssB¿D¶©c    <ˇ”¨   3!!!!5333ÈOO˛±t¸êäM÷ıD˛>FFl˝î  #ˇ…≈, 
+   &''67!5!5!5!5!5!!!!!%µÎ"ÒææÒ"Îµ⁄¸ÆÅ˛Ÿ'˛ˇS˛˛'˛ŸÅ,£ÄAÇÆÆÇAÄ£¸ùCÕA¶AA¶AÕ  $ˇ©ƒ  % ) - 1  !!!3##"/326=!##53!5!5!!!5!#335˛˛˛˛Off'TxV-+˝∆Mff:˛Ç\˛m˛≥ÌÌÌÌÇàu˛ãAîP%C%ì˛AuW??îuuu;àà  +ˇÆÆ3    ; ? C  33!!"&''67#7&'735#3673#3#3#3!'67355#5“MêÅ.˛”≥¥.9`$X9áÍ4XN4E ˇ∑∑GºG≈’¡¡¡¡‰˝Œ"7pS∑∑©˛—02C2@@C@<= ˇı.cN.C˝ﬂw
+/@==
+4<@o<s<w?¨=08òoo˛‚ss   ˇ©¿4   % + / 3 ?  !5!#3##"/326=!&'7#5!!!#%'677!5!!5#'>7	˛2~`gg(W\U+˛±[J4K]/~’˛g˛5K˛ŸçT;^“|˛Ñ|˝™M.0Mn.=)V<<HCí[+C0îOV1XP.C ˛ΩWAV{#éHÇKKª˛©6$L8|Q$N   
+ˇ©ƒ*    *  %!#!5!5!5!3!!'67&'#'6ƒ˛‡L˛±O˛ 6L˛˚0MBN-˛A<B<AqL)0!è6IÓD˛ˇDùCY˛ßCùÙÄ~ÅzqàÖrπ˝ÜÏM<Q¡à     Mˇ©õ    %  %!!5!5#535#5!#3#!%&'7#!#5	˝Æ ˇÕÕ4˙◊◊;˝JF:5696˝ÑLNL•>> :û<<û:˛•º˝D°I<'@F˛˚-f¸ö-      ˇ©≥* & 1  367327676767#"'.5#'6ÂN•©/æø##3/',K <0?,H"ÀO:I(øJG˛≤Oì7§V˛‘8f#[@GN$(.Xﬁ˝Ç`NE≈á  +ˇÆæ*   / C I N  7&67!#"/326=!5!5#5'673&'#33!!"&''67#7&'7&'ﬂ7`H;G˝Ëo:><tT˛˚ ASA 
+˛“.•0I£ÅVy£/FÖ˝ã“MêÅ.˛”≥¥.9`$X9áË4UQ5RXXTSY4)lz&yF\|áad?ÕG$@%∆?r0%EO}rZD-3r˛ 02C2@@C@<=Ó.bO.RQ<RS;    2ˇ©∂'     %!#!5!5!5!3!!'67&'∂˛eN˛eõ˛É}N}˛ÉO:[D]4˝°KJFGMÌEˇ ˇEúC[˛•Cú˜Ç|ÉwmåÖr     1ˇµπ* % + 3 ? L  ".#5326=######367#5!!!7&33!53%353!533567'676m&[FWFUI“ıDˇ ¸∏ABKFx˛ xõF˝ÒFõ˛Ø.
+†êLY(DHCÛ˛ 6˛ 6˛Æí')BB!/˛≠$Y¶Â’∆ô@@£ ßÊÊß ˝8	?>BŒÚ  
+ 9ˇ§¿        ! ) ;  5!%5!%5!%5!5!35#35##!7#!#533!537#537#5!#\2˛Œ2˛´u˛ß=≥˛ﬁP∑ù˛ØØI>êKπL´›I˝tcqû·Ù@@é??çCCéAA˝Z∫∫Ç|˝ÒÄø,+ˇ+c˛ù+yπAA|=iAA     ˇ©∆* _ c g k p {  5!!!3#&'#"'!&''67&'7#'67.=3327674775!&'7#67'67#535367!5!!5!567!#'6•˛¿I8"5*76:<3b<]Åñ∫•ú«ûÄA6%KZ{\F	Vd@&˛›,6 IGﬁ4(M-8J”		óò˛hò˛hò«U6˛Á>˛•J" Å2GÕ==Úú.&D?46,%A=9@&(.!;+AR>	#$U0%V  P=*#úÚ|'N((N((˛h!%(£˝§–D-Xæ
+ö    +ˇÆÆ0 % 9 ?  %&''67!5!5#53&'73673#3#%33!!"&''67#7&'7Ü;]hF≈+‡!˛Úˇ•$'B-)h3"E-Ü‰˜¸â˝“MêÅ.˛”≥¥.9`$X9áÌ4UQ5R\*âp°Q;VµAåAIBKVXKAOAåAã∆˛ 02C2@@C@<=Ó.bO.R  ˇ©¬*       &  %5!5!%5!%5!%5!#!#5#'6E˛]B)˝◊)˝°ò˝¶$˛L=N˝èM)/å6IÄÄ@@é??çCCéAA˝
+,+˛’,N˝ÜÈN;T¿Ä     ˇ©—1   J N R V Z  7&67735#5!533#3#&'#5'67+5&'#'?'767677&5#5#;5#'35#"=	?	˛Ì"	?	"¬;Áˇ ˇK˙˙Ê“\ù"ç^K^™"¡VãI1XKçG*v+&3$?3<'D4<Mfà'õKûÈõõÈûû	nij™çãèê)]d??YY??˛ëÅ_?]Ç˛˝xf?oq6
+%˛hì	A=∆=>aTqjDngóñC^^õccc8^   =ˇÆé   " G K O  67%26=#&'7#5!#"/%67%26=#&'7#5!!#5!#!7#"/5!5!5!ˇ®uoÆ	ÓPB'A_ =ã>@Pp˝.®uoÆ	ÙTD'QO"?ãE	`O˝ËO9@Pp∏˝Ë˝ËÛ*8:7.Ó,-2-6(?˛ø,=$*8:7.Ó..26,,?˛ø	
+*˛W,,©==˛Mff†a     ˇÑπJ  	      |  7&#33537#75#35'&'367#5!67#5!#'25'#'25'!35'67#53&'7#'67'6737&'µ7B>˝ÂPPPPBPQRRz
++ x4-\7U1ïUHƒcT≈f"GCFDg"GCF-˛öë8Y8b:}S
+
+¥É'!';$5'kB=+S%buq˛ÍQCbbbbCQQ?.0	ojAÜ8+>y“òe°RB˝gj∫RB¸ÂhB&CÜQ0lhB&CÜQû{»zE'EèA,+@99](7
+&buTM     2ˇ§√      + /  5!%5!%5!%5!!5!#'##!>5!#.35#U˛Ë˛≈W˛≈"Æ9˛«yz
+n@—F$4-—¿6©0XÖ˝ﬁõõ@@é??çCCéAA˝ÛF˛ﬁ¥ ,+‹^ÁØ˛ÜÚ≠8U˜ÏÄ  !ˇÆØ/ ! % ) - 1 =  #67#"/326='675#535335!#33535##!53!#53Y+*":=?20694kkLŒª˛¯∫∫∫∫Mªª˛˘KMLjB·B“U*A+ªF¸BΩΩ+ﬂﬂﬂA˛œ@‘≠≠˝,@      ËıXµp›_<ı Ë    ∆÷5    ∆÷5ˇS˛¿}3             Ì˛Ú  òˇS˛æ}                ˜∞ !Ë Ë %Ë  Ë %Ë Ë 9Ë +Ë Ë 9Ë 0Ë äË gË *Ë WË 5Ë 2Ë 5Ë !Ë Ë EË Ë !Ë FË )¯ Ë Ë "Ë 7Ë&Ë CË "Ë 9m  Ë ?Ë /Ë &Ë >Ë :Ë DË 5Ë .Ë wË SË 2Ë =Ë ÖË KË {Ë Ë 2Ë 9Ë `Ë (Ë +Ë ¿Ë Ë Ë 2Ë NË &˘ >Ë üË RË 5Ë dË "Ë iË ∑Ë üË fË PË Ë Ë KË -Ë XË "Ë HË 0Ë Ë ?Ë gË ]Ë )Ë HË BË "Ë \Ë +Ë PË 6Ë Ë 2Ë Ë FË DË CË MË 8Ë 3Ë WË +Ë /Ë Ë +Ë #Ë #Ë -Ë <Ë (Ë Ë "Ë IË aË aË /Ë Ë Ë Ë ~Ë -Ë Ë 2Ë ZË Ë (¯ Ë Ë Ë %Ë 7Ë Ë qË 2Ë +Ë (Ë 2Ë Ë NË .Ë CË &Ë )Ë (Ë Ë Ë Ë 4Ë Ë +Ë Ë Ë Ë (Ë #Ë 2Ë 2Ë #Ë !Ë ZË Ë #Ë Ë !Ë ñË /Ë Ë Ë (Ë Ë 4Ë Ë &Ë Ë (Ë 9Ë 2 ¢Ë +Ë -Ë K¯ Ë CË WË ñË FË 0Ë >Ë ZË %Ë 1Ë $Ë Ë <Ë ÑË "Ë &Ë Ë Ë ;Ë Ë Ë %Ë 8Ë &Ë &Ë Ë MË 1Ë Ë 5Ë 2Ë IË -Ë 3Ë 9Ë ?Ë MË Ë $Ë äË Ë  Ë -Ë (Ë <Ë <Ë #Ë $Ë +Ë Ë 
+Ë MË  Ë +Ë 2Ë 1Ë 9Ë Ë +Ë Ë  Ë =˘ Ë 2Ë !   , à(äÙå‡0vÚ4néÃ∫ò“ZúVƒ	6	Ñ
 f
 ú
 ¨
 ºJJ|∫R¯N™Lbû‘ÚVÑÍ`ÜºFhº¿Ù@®‡
 Bh™⁄Hà∂Ê&í2RÆv˛6díH¶Ù ~û–,Ü¸:N»Ü rŒ 8 î Ê! !r!æ"J"¨#,#h#û#‰$<$Ç$⁄%L%x%Œ&&v&¿'V'»(6(¶(Ë)R)ﬁ*R*j*®++f+≤,F,®,Œ--L-»..ä/ /r/¨00Ç0÷1Æ2X2ÿ33D3†44V4Ä4Í5h5¨5˛66ú77|7‘8:8∏99J9∞::é:‚:;T;ê;‰<Ç<Ù=N=ä=Ë>X>¨>‘?B?®@N@ä@§@ ArA™BBlBæC*CZCƒD
-DnDñEEúEFZF∆GG6GêG⁄      ÿ              .       1R        ·ƒ       
+DnDñEEúEFZF∆GG6GêG⁄H
+HhHﬁIHI≤IÙJ4J™KK|K¥K–LLNL¥MMbM†MÓNjN¢OOrP*PäP–QXQ‘RéR‹S6    ˜              .       1R        ·ƒ       
 º       ◊       -;       è       ¿       ı       >       x      ˇ      	&      B      ±            ^      ë          	0     T     ƒ     #     q      !™     t     
 ‹     4     à      Ã     å     Á     @     ô      ‚          :     û     ˝     Q     ¨     k  	  ¬    	  ¶  	  «  	  Zﬂ  	  $i  	  ¢  	  $œ  	  4    Y C o p y r i g h t ( C )   1 9 9 0 - 2 0 0 3   W a d a   L a b o r a t o r y ,   U n i v .   o f   T o k y o . 
  C o p y r i g h t ( C )   2 0 0 3 - 2 0 0 4   / e f o n t / . 
@@ -1482,7 +1687,7 @@ All rights reserved.  V L   P G o t h i c  VL PGothic  r e g u l a r  regular  F
 
 endobj
 % 'fontDescriptor:AAAAAB+VL-PGothic-Regular': class PDFDictionary 
-30 0 obj
+38 0 obj
 << /Ascent 860
  /CapHeight 860
  /Descent -140
@@ -1491,22 +1696,22 @@ endobj
  -320
  1405
  1075 ]
- /FontFile2 29 0 R
+ /FontFile2 37 0 R
  /FontName /AAAAAB+VL-PGothic-Regular
  /ItalicAngle 0
  /StemV 87
  /Type /FontDescriptor >>
 endobj
 % 'F2+1': class PDFTrueTypeFont 
-31 0 obj
+39 0 obj
 % Font VL-PGothic-Regular subset 1
 << /BaseFont /AAAAAB+VL-PGothic-Regular
  /FirstChar 0
- /FontDescriptor 30 0 R
- /LastChar 214
+ /FontDescriptor 38 0 R
+ /LastChar 245
  /Name /F2+1
  /Subtype /TrueType
- /ToUnicode 28 0 R
+ /ToUnicode 36 0 R
  /Type /Font
  /Widths [ 1000
  1000
@@ -1722,11 +1927,42 @@ endobj
  1000
  1000
  1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1017
+ 1000
  1000 ] >>
 endobj
 % 'toUnicodeCMap:AAAAAA+VL-Gothic-Regular': class PDFStream 
-32 0 obj
-<< /Length 1903 >>
+40 0 obj
+<< /Length 2083 >>
 stream
 /CIDInit /ProcSet findresource begin
 12 dict begin
@@ -1739,9 +1975,9 @@ begincmap
 /CMapName /AAAAAA+VL-Gothic-Regular def
 /CMapType 2 def
 1 begincodespacerange
-<00> <7F>
+<00> <8E>
 endcodespacerange
-128 beginbfchar
+143 beginbfchar
 <00> <0000>
 <01> <0001>
 <02> <0002>
@@ -1870,6 +2106,21 @@ endcodespacerange
 <7D> <007D>
 <7E> <007E>
 <7F> <007F>
+<80> <30AB>
+<81> <30C6>
+<82> <30B4>
+<83> <30EA>
+<84> <30FC>
+<85> <540D>
+<86> <30B3>
+<87> <30E1>
+<88> <30F3>
+<89> <30C8>
+<8A> <30ED>
+<8B> <30B0>
+<8C> <30A4>
+<8D> <30A2>
+<8E> <30A6>
 endbfchar
 endcmap
 CMapName currentdict /CMap defineresource pop
@@ -1878,14 +2129,12 @@ endendstream
 
 endobj
 % 'fontFile:/Users/tmatsuo/Library/Fonts/VL-Gothic-Regular.ttf(AAAAAA+VL-Gothic-Regular)': class PDFStream 
-33 0 obj
-<< /Length 9336
- /Length1 9336 >>
+41 0 obj
+<< /Length 10672
+ /Length1 10672 >>
 stream
-     Ä  @OS/2°Æôí   Ã   Vcmap	∑
-x  $  cvt  !y  <   glyfìQ©@  @  headÔZŸá  0   6hheaôª  h   $hmtxM¸  å   Œloca"ã≤  \   ∆maxp ÅE  $    name∂ÎQ  D  postˇÜ 2  $P    prepπèÑ   $p    Ùê   äª   åäª  ﬂ 1	      Ä øj«m˙       VL   @ ˇˇ\ˇt  ô ‘@  ‘              
-     Ä                                                                     	 
-                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a     !y  !  nö   .± /<≤ Ì2±‹<≤ Ì2 ± /<≤ Ì2≤¸<≤ Ì23!%!!!M˛‘˛ıö˝f!X    √ 1Ï    3#53»d
+     Ä  @OS/2°Æôí   Ã   Vcmap•ﬁ  $  4cvt  !y  X   glyfBˆ≈  \  headÔZŸá  `   6hheaô#  ò   $hmtxÈÆ!ë  º  ºloca~CÖR   x   ‰maxp êE  !\    name∂ÎQ  !|  postˇÜ 2  )à    prepπèÑ   )®    Ùê   äª   åäª  ﬂ 1	      Ä øj«m˙       VL   @ ˇˇ\ˇt  ô ‘@  ‘              (     è                                                                     	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a   b c d e f g h i j k l m n o p !y  !  nö   .± /<≤ Ì2±‹<≤ Ì2 ± /<≤ Ì2≤¸<≤ Ì23!%!!!M˛‘˛ıö˝f!X    √ 1Ï    3#53»d
 PnÏ˝˝◊ÇÇ     }w    3#3#d<™d<˛Ë˛Ë     ( ÃÏ    7537#53733733#3##7##?37#(MGPRLRAJDMRLR[LLŒH‰H™™™™H‰HººººH‰     KˇΩ≥A  ! &  654#5&'55.546753&'5%::LFCAHMAJDLE:4KMA⁄:I÷WG˛ˇhe+_9˚YIL]	ffZ&Ì[I£ÉœSI    ÷ˆ       2"&42"&424"24"<|˛Ñ'zEEzE˘zEEzEfhh¥hh"P˛ﬁ0RúRRú˛§RúRRú∏˝ö∏  ˇˆÔ‰ 
  & .   ">54'.546253#'#"&54'32
 L-);(ü	/!Zí\=LwPEW!EjR]2âT63Fô(#<A3A&!ÓGQ'BTTB9c?∑Ÿ˝j1;\SkùŒOJ34  √1   3#√n<˛Ë    }ˇÜã   673#}¬LƒƒL:&¥∏˝‚∏  iˇÜw    #6'3w¬LƒƒL`˝⁄¥∏∏    #g—    37''7'7÷H†°e:aa:e°† ©7D2á*ää*á2D7   < I∏=   3##5#535#ïïRïï=÷H÷÷H÷     ñˇêJ ®   73#“xnF®˛Ë     dêg   5!d,HH     π ; ®   753πÇññ   0ˇÍƒÏ   	#ƒ˛¥HLÏ¸˛   < ∏ˆ     2".4>&"26' `D22D`D22ƒbLfLˆ$TìÿìT$$TìÿìT˛9SRR˛Ô†_R,8  S TÏ   %'573≠ØRÖePi˝&     P §ˆ   73!554#"5632Øı˛¨˚]\$K_UPl\HH æt-!WA^`c⁄     P ÆÏ   5#5!32#"'532654&+5J˙Y¥
@@ -1901,7 +2150,9 @@ L-);(ü	/!Zí\=LwPEW!EjR]2âT63Fô(#<A3A&!ÓGQ'BTTB9c?∑Ÿ˝j1;\SkùŒOJ34  √
 D      ‡$ "  %#.#"#33>323632#.#""N'OF3''A5/M@h:'}Ñ»F&*%+PAU˛Ñh;&≈    F ∏$   #4&#"#33>32∏M(52GOJN-OG\˛∂8X;p_¸K&/[  2 ¬$      6264&"2ê˛pãz99z9$˝‰E[‹[[‹     <ˇ6¬$    7##33632#"4#"326çOJ6SØ`O[ªt3AA35?]˛Ÿ‰KU˛Úáá√c[
 [ca  2ˇ6∏$    %#"&532373#'326=4&#"g+[O`ØS6JOË?53AA3t]UááUK˝'πbac[
 [c     n Æ$   3632&#"#∫>n%!##IbOdn
-Fzc     P Æ$   ""'53254&'.54632& ˇ`*6jE^¨ONMo+?\IWSTLO·I")BäL(P5N%(H>BJ#K+   A ©ƒ   3#327#"&5#5353Ùµµ!02(04TBddOE˛Á8%FAU#Eæ    A ©   73326=3#'##"&AM%31COJJ,MD∆T˛æS6na¸˝¯K(-V    2 ¬   733#3˚sRënëVNÃ˝¯      ‡   %33###333_1NPc61`PR11db∏˝¯∏˛H˛H∏    7 Ω   373#'##3˚hXëë^ffZëë\C◊˛¸˛¸◊◊   -ˇ6—   %33#73uWSNØXäê˝Ê˛     P §   !3!55#PT¯¯˛¨¯¯E˛ÑEE|    KˇÜü $  ;#"&=4&+5326=46;#"√Q!>(AIE+----+EIA(>!(N&oáH&<GOñB;<;BñOG<&Há=D   ‘ˇ6 <   3‘L ˚˙     UˇÜ© $  .=4&+532;#"+5326=471-(!>(AIE+----+EIA(>!QND=áH&<GOñB;<;BñOG<&Háo&  2J¬ÿ   56323267#"'&#"2*5=@0 ,*5=@0 ,lK!0#K!0#       ËıG…0–_<ı Ë    ∆÷^    ∆÷^ˇÏˇ"œ             ôˇ,  ÀˇÏ˛æ                ∞ !M  M  Ù  Ù √ } ( K   √ } i # < ñ d π 0 < S P P ( Z F K 2 < æ å 7 < A A #  K 7 A P Z ( < Z < K d ( A ( K ( F F 7 <   2  K å 0 n  2 Ç < A F - 7 K 2 F _ [ P F  F 2 < 2 n P A A 2  7 - P K ‘ U 2     , , , , @ V Ü ¬ Ù:HZnå¢∞æ ⁄
+Fzc     P Æ$   ""'53254&'.54632& ˇ`*6jE^¨ONMo+?\IWSTLO·I")BäL(P5N%(H>BJ#K+   A ©ƒ   3#327#"&5#5353Ùµµ!02(04TBddOE˛Á8%FAU#Eæ    A ©   73326=3#'##"&AM%31COJJ,MD∆T˛æS6na¸˝¯K(-V    2 ¬   733#3˚sRënëVNÃ˝¯      ‡   %33###333_1NPc61`PR11db∏˝¯∏˛H˛H∏    7 Ω   373#'##3˚hXëë^ffZëë\C◊˛¸˛¸◊◊   -ˇ6—   %33#73uWSNØXäê˝Ê˛     P §   !3!55#PT¯¯˛¨¯¯E˛ÑEE|    KˇÜü $  ;#"&=4&+5326=46;#"√Q!>(AIE+----+EIA(>!(N&oáH&<GOñB;<;BñOG<&Há=D   ‘ˇ6 <   3‘L ˚˙     UˇÜ© $  .=4&+532;#"+5326=471-(!>(AIE+----+EIA(>!QND=áH&<GOñB;<;BñOG<&Háo&  2J¬ÿ   56323267#"'&#"2*5=@0 ,*5=@0 ,lK!0#K!0#     wˇﬁU #  3!#"'732>75!'>7#5!6ÜKá)*#UiZL)$˛ƒÉé0TeBˇVJ9åºâK,H
+2œÊ‰˛ˆl6@ÅÕñFJ    Pˇ”ò’    5!!!'>7!¡f˝)H˛©õØîz˛_èFF»F∂ .E+¢ú   Ñ ÕP    7!5!!5!&?&¬47"˝Ne˝õÉ!V52*5-R;˝{FF6NKFK  ∆ˇÃ"Â 	   3'>53–R‰˛˛Áπ˝ˆPÂˇ ¸˙#H"–ﬂ∏∏˛H    ]Uã¢   5!].UMM     *ˇ≥ë@   $  #5!#'67&'767!'67!!5ëN˛MMxã·º9Y7VD£5˛îc¢!›r?~M˘W≥R˛a66M4"?6qBW/QNsyc[;~†  BΩñAÈÈ    ì O∑   !!5!!ìº˝Do˝ë∑˝^F    dˇ–pÙ   767&''67&’1àíh;N>së7ÜÇô˛˜+¸íè';`vó—‰©iâ8~nøäAÖ∑v  ìˇÙò◊    &'$ ∑ôô'íù$O1Ie˝Ç◊L^DZP˝¨˝¿8   ˝ˇœ|˝ 	  $%#M˛˛˘P˝˛‹BjIh?˛D.     { m«    7!!#!ÀR˝ÆPÚL4˝Ö¬˝>    fˇ„ﬁP     7&?&,!'67!œ4: 5(L5/.51˝&-˛n=y6∫K
+…K£ÒÆX6D\ELQ˝5Òîp0Ø˛S?®ÌüU  aˇ—ÅË   6$7#aÿò1z±Q»–u ã6Ç_˛ ◊]   zˇ›ê« 	   !'67!3'>zîh(º3˝>'L}ô$Ék«DmÆ2?Z¥_˛ˇ˛˚A@7Ë   ˇŸi!   !53! '>=!#FMW˛ﬁ˛Ïı¸˝≠KÅ††£Í˛ˆF„Ã_ı     ËıÑSæ_<ı Ë    ∆÷^    ∆÷^ˇÏˇ"œ             ôˇ,  ÀˇÏ˛æ                m∞ !M  M  Ù  Ù √Ù }Ù (Ù KÙ Ù Ù √Ù }Ù iÙ #Ù <Ù ñÙ dÙ πÙ 0Ù <Ù SÙ PÙ PÙ (Ù ZÙ FÙ KÙ 2Ù <Ù æÙ åÙ 7Ù <Ù AÙ AÙ #Ù Ù KÙ 7Ù AÙ PÙ ZÙ (Ù <Ù ZÙ <Ù KÙ dÙ (Ù AÙ (Ù KÙ (Ù FÙ FÙ 7Ù <Ù Ù Ù 2Ù Ù KÙ åÙ 0Ù nÙ Ù 2Ù ÇÙ <Ù AÙ FÙ -Ù 7Ù KÙ 2Ù FÙ _Ù [Ù PÙ FÙ Ù FÙ 2Ù <Ù 2Ù nÙ PÙ AÙ AÙ 2Ù Ù 7Ù -Ù PÙ KÙ ‘Ù UÙ 2Ë wË PË ÑË ∆Ë ]Ë *Ë ìË dË ìË ˝Ë { f a z    , , , , @ V Ü ¬ Ù:HZnå¢∞æ ⁄
 @hÑ™‡¯>tÜö∞ƒÿ
 Lföº‰¸6NdÇú¨ ‚.^å¿“Ó"@VnÄé†¥¿Œ0R~¶»˛	 	:	^	v	í	∆	Ë
 
@@ -1911,7 +2162,7 @@ t
 ¢
 ƒ
 Ê
-˙6Ldñ§÷¯      b                .       )Ú        ·ƒ       	∫       ‘       )0       ~       Æ       ·       )       `      	Á            r      ∫      y     	Ò               Õ      !í     5     ê     ‰      ¥     M     ú     ı            ˚     _     ≠          T  	  ¬    	  ¶  	  ƒ  	  R‹  	  "Z  	  ê  	  "Ω  	  4Û    D C o p y r i g h t ( C )   1 9 9 0 - 2 0 0 3   W a d a   L a b o r a t o r y ,   U n i v .   o f   T o k y o . 
+˙6Ldñ§÷¯0Pvî¢‡Ù:Tj§æ‚    q                .       )Ú        ·ƒ       	∫       ‘       )0       ~       Æ       ·       )       `      	Á            r      ∫      y     	Ò               Õ      !í     5     ê     ‰      ¥     M     ú     ı            ˚     _     ≠          T  	  ¬    	  ¶  	  ƒ  	  R‹  	  "Z  	  ê  	  "Ω  	  4Û    D C o p y r i g h t ( C )   1 9 9 0 - 2 0 0 3   W a d a   L a b o r a t o r y ,   U n i v .   o f   T o k y o . 
  C o p y r i g h t ( C )   2 0 0 3 - 2 0 0 4   / e f o n t / . 
  C o p y r i g h t ( C )   2 0 0 5 - 2 0 0 9   M +   F O N T S   P R O J E C T . 
  C o p y r i g h t ( C )   2 0 0 6 - 2 0 0 9   P r o j e c t   V i n e . 
@@ -1925,7 +2176,7 @@ All rights reserved.  V L   G o t h i c  VL Gothic  r e g u l a r  regular  F o 
 
 endobj
 % 'fontDescriptor:AAAAAA+VL-Gothic-Regular': class PDFDictionary 
-34 0 obj
+42 0 obj
 << /Ascent 860
  /CapHeight 860
  /Descent -140
@@ -1934,22 +2185,22 @@ endobj
  -222
  1041
  975 ]
- /FontFile2 33 0 R
+ /FontFile2 41 0 R
  /FontName /AAAAAA+VL-Gothic-Regular
  /ItalicAngle 0
  /StemV 87
  /Type /FontDescriptor >>
 endobj
 % 'F4+0': class PDFTrueTypeFont 
-35 0 obj
+43 0 obj
 % Font VL-Gothic-Regular subset 0
 << /BaseFont /AAAAAA+VL-Gothic-Regular
  /FirstChar 0
- /FontDescriptor 34 0 R
- /LastChar 127
+ /FontDescriptor 42 0 R
+ /LastChar 142
  /Name /F4+0
  /Subtype /TrueType
- /ToUnicode 32 0 R
+ /ToUnicode 40 0 R
  /Type /Font
  /Widths [ 432
  432
@@ -2078,366 +2329,466 @@ endobj
  500
  500
  500
- 432 ] >>
+ 432
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000
+ 1000 ] >>
 endobj
-% 'R36': class PDFCatalog 
-36 0 obj
+% 'R44': class PDFCatalog 
+44 0 obj
 % Document Root
-<< /Outlines 38 0 R
- /PageLabels 80 0 R
+<< /Outlines 46 0 R
+ /PageLabels 100 0 R
  /PageMode /UseNone
- /Pages 66 0 R
+ /Pages 81 0 R
  /Type /Catalog >>
 endobj
-% 'R37': class PDFInfo 
-37 0 obj
+% 'R45': class PDFInfo 
+45 0 obj
 << /Author ()
- /CreationDate (D:20100506121240-09'00')
+ /CreationDate (D:20100506165114-09'00')
  /Keywords ()
  /Producer (ReportLab http://www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (\376\377\000K\000a\000y\000 0\3010\3450\3740\3100\3520\2420\353) >>
 endobj
-% 'R38': class PDFOutlines 
-38 0 obj
-<< /Count 34
- /First 39 0 R
- /Last 63 0 R
+% 'R46': class PDFOutlines 
+46 0 obj
+<< /Count 42
+ /First 47 0 R
+ /Last 77 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-39 0 obj
+47 0 obj
 << /Dest [ 5 0 R
  /XYZ
  62.69291
  729.0236
  0 ]
- /Next 40 0 R
- /Parent 38 0 R
+ /Next 48 0 R
+ /Parent 46 0 R
  /Title (\376\377\225\213vzt\260X\2030nn\226P\231) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-40 0 obj
+48 0 obj
 << /Count 4
  /Dest [ 6 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /First 41 0 R
- /Last 44 0 R
- /Next 45 0 R
- /Parent 38 0 R
- /Prev 39 0 R
+ /First 49 0 R
+ /Last 52 0 R
+ /Next 53 0 R
+ /Parent 46 0 R
+ /Prev 47 0 R
  /Title (\376\3770\2570\2440\3030\2570\2710\2770\3740\310) >>
 endobj
-% 'Outline.28.0': class OutlineEntryObject 
-41 0 obj
+% 'Outline.35.0': class OutlineEntryObject 
+49 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  732.0236
  0 ]
- /Next 42 0 R
- /Parent 40 0 R
+ /Next 50 0 R
+ /Parent 48 0 R
  /Title (\376\3770\3270\3550\2700\2470\2570\3100n\225\213Y\313) >>
 endobj
-% 'Outline.28.1': class OutlineEntryObject 
-42 0 obj
+% 'Outline.35.1': class OutlineEntryObject 
+50 0 obj
 << /Dest [ 6 0 R
  /XYZ
  62.69291
  474.8236
  0 ]
- /Next 43 0 R
- /Parent 40 0 R
- /Prev 41 0 R
+ /Next 51 0 R
+ /Parent 48 0 R
+ /Prev 49 0 R
  /Title (\376\3770\2420\3270\3520\2610\3740\2670\3470\3630\222O\\0\213) >>
 endobj
-% 'Outline.28.2': class OutlineEntryObject 
-43 0 obj
+% 'Outline.35.2': class OutlineEntryObject 
+51 0 obj
 << /Dest [ 9 0 R
  /XYZ
  62.69291
  563.8236
  0 ]
- /Next 44 0 R
- /Parent 40 0 R
- /Prev 42 0 R
+ /Next 52 0 R
+ /Parent 48 0 R
+ /Prev 50 0 R
  /Title (\376\3770\2420\3270\3520\2610\3740\2670\3470\3630\222R\3250K0Y) >>
 endobj
-% 'Outline.28.3': class OutlineEntryObject 
-44 0 obj
+% 'Outline.35.3': class OutlineEntryObject 
+52 0 obj
 << /Dest [ 9 0 R
  /XYZ
  62.69291
  402.6236
  0 ]
- /Parent 40 0 R
- /Prev 43 0 R
+ /Parent 48 0 R
+ /Prev 51 0 R
  /Title (\376\377\000G\000A\000E\000 0k0\2420\3030\3270\3550\3740\3110Y0\213) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-45 0 obj
+53 0 obj
 << /Count 3
  /Dest [ 9 0 R
  /XYZ
  62.69291
  277.4236
  0 ]
- /First 46 0 R
- /Last 48 0 R
- /Next 49 0 R
- /Parent 38 0 R
- /Prev 40 0 R
+ /First 54 0 R
+ /Last 56 0 R
+ /Next 57 0 R
+ /Parent 46 0 R
+ /Prev 48 0 R
  /Title (\376\3770\3070\3250\2510\3530\3100\2420\3270\3520\2610\3740\2670\3470\363) >>
 endobj
-% 'Outline.29.0': class OutlineEntryObject 
-46 0 obj
+% 'Outline.36.0': class OutlineEntryObject 
+54 0 obj
 << /Dest [ 9 0 R
  /XYZ
  62.69291
  226.4236
  0 ]
- /Next 47 0 R
- /Parent 45 0 R
+ /Next 55 0 R
+ /Parent 53 0 R
  /Title (myapp/urls.py) >>
 endobj
-% 'Outline.29.1': class OutlineEntryObject 
-47 0 obj
+% 'Outline.36.1': class OutlineEntryObject 
+55 0 obj
 << /Dest [ 10 0 R
  /XYZ
  62.69291
  695.8236
  0 ]
- /Next 48 0 R
- /Parent 45 0 R
- /Prev 46 0 R
+ /Next 56 0 R
+ /Parent 53 0 R
+ /Prev 54 0 R
  /Title (myapp/views.py) >>
 endobj
-% 'Outline.29.2': class OutlineEntryObject 
-48 0 obj
+% 'Outline.36.2': class OutlineEntryObject 
+56 0 obj
 << /Dest [ 11 0 R
  /XYZ
  62.69291
  729.0236
  0 ]
- /Parent 45 0 R
- /Prev 47 0 R
+ /Parent 53 0 R
+ /Prev 55 0 R
  /Title (myapp/templates/index.html) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-49 0 obj
+57 0 obj
 << /Count 5
  /Dest [ 11 0 R
  /XYZ
  62.69291
  240.6587
  0 ]
- /First 50 0 R
- /Last 51 0 R
- /Next 55 0 R
- /Parent 38 0 R
- /Prev 45 0 R
+ /First 58 0 R
+ /Last 59 0 R
+ /Next 63 0 R
+ /Parent 46 0 R
+ /Prev 53 0 R
  /Title (\376\3770\3460\3740\2660\374\212\215\212<) >>
 endobj
-% 'Outline.30.0': class OutlineEntryObject 
-50 0 obj
+% 'Outline.37.0': class OutlineEntryObject 
+58 0 obj
 << /Dest [ 11 0 R
  /XYZ
  62.69291
  177.6587
  0 ]
- /Next 51 0 R
- /Parent 49 0 R
+ /Next 59 0 R
+ /Parent 57 0 R
  /Title (\376\3770\3460\3740\2660\374\212\215\212<0n\212-[\232) >>
 endobj
-% 'Outline.30.1': class OutlineEntryObject 
-51 0 obj
+% 'Outline.37.1': class OutlineEntryObject 
+59 0 obj
 << /Count 3
  /Dest [ 12 0 R
  /XYZ
  62.69291
  439.4236
  0 ]
- /First 52 0 R
- /Last 54 0 R
- /Parent 49 0 R
- /Prev 50 0 R
+ /First 60 0 R
+ /Last 62 0 R
+ /Parent 57 0 R
+ /Prev 58 0 R
  /Title (\376\377O\177u\(e\271l\325) >>
 endobj
-% 'Outline.31.0': class OutlineEntryObject 
-52 0 obj
+% 'Outline.38.0': class OutlineEntryObject 
+60 0 obj
 << /Dest [ 12 0 R
  /XYZ
  62.69291
  409.4236
  0 ]
- /Next 53 0 R
- /Parent 51 0 R
+ /Next 61 0 R
+ /Parent 59 0 R
  /Title (request.user) >>
 endobj
-% 'Outline.31.1': class OutlineEntryObject 
-53 0 obj
+% 'Outline.38.1': class OutlineEntryObject 
+61 0 obj
 << /Dest [ 12 0 R
  /XYZ
  62.69291
  208.4236
  0 ]
- /Next 54 0 R
- /Parent 51 0 R
- /Prev 52 0 R
+ /Next 62 0 R
+ /Parent 59 0 R
+ /Prev 60 0 R
  /Title (\376\377\000t\000e\000m\000p\000l\000a\000t\000e\000 Q\2050g0nO\177u\(O\213) >>
 endobj
-% 'Outline.31.2': class OutlineEntryObject 
-54 0 obj
+% 'Outline.38.2': class OutlineEntryObject 
+62 0 obj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
  695.8236
  0 ]
- /Parent 51 0 R
- /Prev 53 0 R
+ /Parent 59 0 R
+ /Prev 61 0 R
  /Title (\376\3770\3070\2630\3540\3740\2770\374) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-55 0 obj
+63 0 obj
 << /Count 4
  /Dest [ 13 0 R
  /XYZ
  62.69291
  459.6236
  0 ]
- /First 56 0 R
- /Last 59 0 R
- /Next 60 0 R
- /Parent 38 0 R
- /Prev 49 0 R
- /Title (\376\3770\2620\2710\3100\3260\3030\2570n[\237\210\305\000 \000-\000 \000S\000t\000e\000p\0001) >>
+ /First 64 0 R
+ /Last 67 0 R
+ /Next 68 0 R
+ /Parent 46 0 R
+ /Prev 57 0 R
+ /Title (\376\3770\2620\2710\3100\3260\3030\2570n[\237\210\305\000 \000-\000 \000S\000t\000e\000p\000 \0001) >>
 endobj
-% 'Outline.32.0': class OutlineEntryObject 
-56 0 obj
+% 'Outline.39.0': class OutlineEntryObject 
+64 0 obj
 << /Dest [ 13 0 R
  /XYZ
  62.69291
  378.6236
  0 ]
- /Next 57 0 R
- /Parent 55 0 R
+ /Next 65 0 R
+ /Parent 63 0 R
  /Title (\376\3770\3420\3070\353[\232\177\251) >>
 endobj
-% 'Outline.32.1': class OutlineEntryObject 
-57 0 obj
+% 'Outline.39.1': class OutlineEntryObject 
+65 0 obj
 << /Dest [ 15 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /Next 58 0 R
- /Parent 55 0 R
- /Prev 56 0 R
+ /Next 66 0 R
+ /Parent 63 0 R
+ /Prev 64 0 R
  /Title (\376\3770\3250\2510\3740\340[\232\177\251) >>
 endobj
-% 'Outline.32.2': class OutlineEntryObject 
-58 0 obj
+% 'Outline.39.2': class OutlineEntryObject 
+66 0 obj
 << /Dest [ 15 0 R
  /XYZ
  62.69291
  477.8236
  0 ]
- /Next 59 0 R
- /Parent 55 0 R
- /Prev 57 0 R
+ /Next 67 0 R
+ /Parent 63 0 R
+ /Prev 65 0 R
  /Title (\376\3770\3230\3450\374[\232\177\251) >>
 endobj
-% 'Outline.32.3': class OutlineEntryObject 
-59 0 obj
+% 'Outline.39.3': class OutlineEntryObject 
+67 0 obj
 << /Dest [ 18 0 R
  /XYZ
  62.69291
  501.8236
  0 ]
- /Parent 55 0 R
- /Prev 58 0 R
+ /Parent 63 0 R
+ /Prev 66 0 R
  /Title (\376\3770\3060\3630\3270\3540\3740\310) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-60 0 obj
+68 0 obj
 << /Count 2
  /Dest [ 18 0 R
  /XYZ
  62.69291
  132.4228
  0 ]
- /First 61 0 R
- /Last 62 0 R
- /Next 63 0 R
- /Parent 38 0 R
- /Prev 55 0 R
- /Title (\376\3770\2620\2710\3100\3260\3030\2570n[\237\210\305\000 \000-\000 \000S\000t\000e\000p\0002) >>
+ /First 69 0 R
+ /Last 70 0 R
+ /Next 71 0 R
+ /Parent 46 0 R
+ /Prev 63 0 R
+ /Title (\376\3770\2620\2710\3100\3260\3030\2570n[\237\210\305\000 \000-\000 \000S\000t\000e\000p\000 \0002) >>
 endobj
-% 'Outline.33.0': class OutlineEntryObject 
-61 0 obj
+% 'Outline.40.0': class OutlineEntryObject 
+69 0 obj
 << /Dest [ 19 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /Next 62 0 R
- /Parent 60 0 R
+ /Next 70 0 R
+ /Parent 68 0 R
  /Title (\376\3770\2570\2500\3520\3740\222O\177u\(0Y0\213) >>
 endobj
-% 'Outline.33.1': class OutlineEntryObject 
-62 0 obj
+% 'Outline.40.1': class OutlineEntryObject 
+70 0 obj
 << /Dest [ 19 0 R
  /XYZ
  62.69291
  483.8236
  0 ]
- /Parent 60 0 R
- /Prev 61 0 R
+ /Parent 68 0 R
+ /Prev 69 0 R
  /Title (\376\3770\3060\3630\3270\3540\3740\310Q\2050g0n0\3530\3740\327) >>
 endobj
 % 'Outline.6': class OutlineEntryObject 
-63 0 obj
-<< /Count 2
+71 0 obj
+<< /Count 5
  /Dest [ 19 0 R
  /XYZ
  62.69291
  244.6236
  0 ]
- /First 64 0 R
- /Last 65 0 R
- /Parent 38 0 R
- /Prev 60 0 R
+ /First 72 0 R
+ /Last 76 0 R
+ /Next 77 0 R
+ /Parent 46 0 R
+ /Prev 68 0 R
  /Title (\376\3770\2620\2710\3100\3260\3030\2570n[\237\210\305\000 \000-\000 \000S\000t\000e\000p\000 \0003) >>
 endobj
-% 'Outline.34.0': class OutlineEntryObject 
-64 0 obj
+% 'Outline.41.0': class OutlineEntryObject 
+72 0 obj
 << /Dest [ 19 0 R
  /XYZ
  62.69291
  193.6236
  0 ]
- /Next 65 0 R
- /Parent 63 0 R
+ /Next 73 0 R
+ /Parent 71 0 R
  /Title (\376\3770\3420\3070\3530\3250\2510\3740\340) >>
 endobj
-% 'Outline.34.1': class OutlineEntryObject 
-65 0 obj
+% 'Outline.41.1': class OutlineEntryObject 
+73 0 obj
 << /Dest [ 20 0 R
  /XYZ
  62.69291
  198.6236
  0 ]
- /Parent 63 0 R
- /Prev 64 0 R
+ /Next 74 0 R
+ /Parent 71 0 R
+ /Prev 72 0 R
  /Title (\376\377{\241t\006u\(0\2710\2570\3520\3270\310) >>
 endobj
-% 'R66': class PDFPages 
-66 0 obj
+% 'Outline.41.2': class OutlineEntryObject 
+74 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 664.0236
+ 0 ]
+ /Next 75 0 R
+ /Parent 71 0 R
+ /Prev 73 0 R
+ /Title (\376\3770\2530\3060\2640\3520\3740n\210hy:) >>
+endobj
+% 'Outline.41.3': class OutlineEntryObject 
+75 0 obj
+<< /Dest [ 23 0 R
+ /XYZ
+ 62.69291
+ 414.8236
+ 0 ]
+ /Next 76 0 R
+ /Parent 71 0 R
+ /Prev 74 0 R
+ /Title (\376\377\000G\000R\000U\000D0n\201\352R\325u\037b\020) >>
+endobj
+% 'Outline.41.4': class OutlineEntryObject 
+76 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 317.6236
+ 0 ]
+ /Parent 71 0 R
+ /Prev 75 0 R
+ /Title (\376\3770\2530\3060\2640\3520\374RJ\226dfB0n[\376Q\346) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+77 0 obj
+<< /Count 3
+ /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 396.8236
+ 0 ]
+ /First 78 0 R
+ /Last 80 0 R
+ /Parent 46 0 R
+ /Prev 71 0 R
+ /Title (\376\3770\2620\2710\3100\3260\3030\2570n[\237\210\305\000 \000-\000 \000S\000t\000e\000p\000 \0004) >>
+endobj
+% 'Outline.42.0': class OutlineEntryObject 
+78 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 333.8236
+ 0 ]
+ /Next 79 0 R
+ /Parent 77 0 R
+ /Title (\376\377V\375\226\233S\0260\222g\011R\2710k0Y0\213) >>
+endobj
+% 'Outline.42.1': class OutlineEntryObject 
+79 0 obj
+<< /Dest [ 28 0 R
+ /XYZ
+ 62.69291
+ 220.6236
+ 0 ]
+ /Next 80 0 R
+ /Parent 77 0 R
+ /Prev 78 0 R
+ /Title (\376\377V\375\226\233S\0260n0_0\2010k0\3410\3030\2730\3740\2700\2220\3360\3740\2570Y0\213) >>
+endobj
+% 'Outline.42.2': class OutlineEntryObject 
+80 0 obj
+<< /Dest [ 29 0 R
+ /XYZ
+ 62.69291
+ 314.6236
+ 0 ]
+ /Parent 77 0 R
+ /Prev 79 0 R
+ /Title (\376\377\177\373\21230\222O\\b\0200Y0\213) >>
+endobj
+% 'R81': class PDFPages 
+81 0 obj
 % page tree
-<< /Count 13
+<< /Count 18
  /Kids [ 5 0 R
  6 0 R
  9 0 R
@@ -2450,11 +2801,16 @@ endobj
  19 0 R
  20 0 R
  21 0 R
- 23 0 R ]
+ 23 0 R
+ 26 0 R
+ 28 0 R
+ 29 0 R
+ 30 0 R
+ 31 0 R ]
  /Type /Pages >>
 endobj
-% 'R67': class PDFStream 
-67 0 obj
+% 'R82': class PDFStream 
+82 0 obj
 % page stream
 << /Length 7290 >>
 stream
@@ -2862,8 +3218,8 @@ Q
 endstream
 
 endobj
-% 'R68': class PDFStream 
-68 0 obj
+% 'R83': class PDFStream 
+83 0 obj
 % page stream
 << /Length 5885 >>
 stream
@@ -2980,8 +3336,8 @@ Q
 endstream
 
 endobj
-% 'R69': class PDFStream 
-69 0 obj
+% 'R84': class PDFStream 
+84 0 obj
 % page stream
 << /Length 7375 >>
 stream
@@ -3140,8 +3496,8 @@ Q
 endstream
 
 endobj
-% 'R70': class PDFStream 
-70 0 obj
+% 'R85': class PDFStream 
+85 0 obj
 % page stream
 << /Length 6733 >>
 stream
@@ -3254,8 +3610,8 @@ Q
 endstream
 
 endobj
-% 'R71': class PDFStream 
-71 0 obj
+% 'R86': class PDFStream 
+86 0 obj
 % page stream
 << /Length 10089 >>
 stream
@@ -3464,8 +3820,8 @@ Q
 endstream
 
 endobj
-% 'R72': class PDFStream 
-72 0 obj
+% 'R87': class PDFStream 
+87 0 obj
 % page stream
 << /Length 11019 >>
 stream
@@ -3740,10 +4096,10 @@ Q
 endstream
 
 endobj
-% 'R73': class PDFStream 
-73 0 obj
+% 'R88': class PDFStream 
+88 0 obj
 % page stream
-<< /Length 9382 >>
+<< /Length 9383 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -3822,7 +4178,7 @@ Q
 q
 1 0 0 1 62.69291 438.6236 cm
 q
-BT 1 0 0 1 0 5.95 Tm 21 TL 0 0 0 rg /F2+1 17.5 Tf 21 TL (\223) Tj /F2+0 17.5 Tf 21 TL (\224\203) Tj /F2+1 17.5 Tf 21 TL (R) Tj /F2+0 17.5 Tf 21 TL (\320\321\213) Tj /F2+1 17.5 Tf 21 TL ($\224) Tj /F2+0 17.5 Tf 21 TL ( - Step1) Tj T* ET
+BT 1 0 0 1 0 5.95 Tm 21 TL 0 0 0 rg /F2+1 17.5 Tf 21 TL (\223) Tj /F2+0 17.5 Tf 21 TL (\224\203) Tj /F2+1 17.5 Tf 21 TL (R) Tj /F2+0 17.5 Tf 21 TL (\320\321\213) Tj /F2+1 17.5 Tf 21 TL ($\224) Tj /F2+0 17.5 Tf 21 TL ( - Step 1) Tj T* ET
 Q
 Q
 q
@@ -3901,8 +4257,8 @@ Q
 endstream
 
 endobj
-% 'R74': class PDFStream 
-74 0 obj
+% 'R89': class PDFStream 
+89 0 obj
 % page stream
 << /Length 7738 >>
 stream
@@ -4008,10 +4364,10 @@ Q
 endstream
 
 endobj
-% 'R75': class PDFStream 
-75 0 obj
+% 'R90': class PDFStream 
+90 0 obj
 % page stream
-<< /Length 10308 >>
+<< /Length 10309 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -4113,7 +4469,7 @@ Q
 q
 1 0 0 1 62.69291 111.4228 cm
 q
-BT 1 0 0 1 0 5.95 Tm 21 TL 0 0 0 rg /F2+1 17.5 Tf 21 TL (\223) Tj /F2+0 17.5 Tf 21 TL (\224\203) Tj /F2+1 17.5 Tf 21 TL (R) Tj /F2+0 17.5 Tf 21 TL (\320\321\213) Tj /F2+1 17.5 Tf 21 TL ($\224) Tj /F2+0 17.5 Tf 21 TL ( - Step2) Tj T* ET
+BT 1 0 0 1 0 5.95 Tm 21 TL 0 0 0 rg /F2+1 17.5 Tf 21 TL (\223) Tj /F2+0 17.5 Tf 21 TL (\224\203) Tj /F2+1 17.5 Tf 21 TL (R) Tj /F2+0 17.5 Tf 21 TL (\320\321\213) Tj /F2+1 17.5 Tf 21 TL ($\224) Tj /F2+0 17.5 Tf 21 TL ( - Step 2) Tj T* ET
 Q
 Q
 q
@@ -4127,8 +4483,8 @@ Q
 endstream
 
 endobj
-% 'R76': class PDFStream 
-76 0 obj
+% 'R91': class PDFStream 
+91 0 obj
 % page stream
 << /Length 7809 >>
 stream
@@ -4276,8 +4632,8 @@ Q
 endstream
 
 endobj
-% 'R77': class PDFStream 
-77 0 obj
+% 'R92': class PDFStream 
+92 0 obj
 % page stream
 << /Length 11349 >>
 stream
@@ -4504,14 +4860,14 @@ Q
 endstream
 
 endobj
-% 'R78': class PDFStream 
-78 0 obj
+% 'R93': class PDFStream 
+93 0 obj
 % page stream
-<< /Length 6593 >>
+<< /Length 6827 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 379.8236 cm
+1 0 0 1 62.69291 403.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -4521,23 +4877,23 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .960784 .960784 .862745 rg
-n -6 -6 468.6898 384 re B*
+n -6 -6 468.6898 360 re B*
 Q
 q
-BT 1 0 0 1 0 363.4 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# -*- coding: utf-8 -*-) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg /F4+0 10 Tf 12 TL (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (google.appengine.ext) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (db) Tj  T*  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.management.utils) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (\() Tj  T* (  ) Tj (print_status) Tj (,) Tj ( ) Tj (create_db_manage_script) Tj  T* (\)) Tj  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (myapp.models) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (Category) Tj  T*  T* (categories) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ({) Tj  T* (  ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (:) Tj ( ) Tj .729412 .129412 .129412 rg (u'Programming') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (:) Tj ( ) Tj .729412 .129412 .129412 rg (u'Testing') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .4 .4 .4 rg (3) Tj 0 0 0 rg (:) Tj ( ) Tj .729412 .129412 .129412 rg (u'Management') Tj 0 0 0 rg (,) Tj  T* (}) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (create_categories) Tj 0 0 0 rg (\(\):) Tj  T* (  ) Tj (entities) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([]) Tj  T* (  ) Tj 0 .501961 0 rg (for) Tj 0 0 0 rg ( ) Tj (idnum) Tj (,) Tj ( ) Tj (name) Tj ( ) Tj .666667 .133333 1 rg (in) Tj 0 0 0 rg ( ) Tj (categories) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (iteritems) Tj (\(\):) Tj  T* (    ) Tj (entities) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (append) Tj (\() Tj  T* (      ) Tj (Category) Tj (\() Tj (name) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (name) Tj (,) Tj  T* (               ) Tj (key) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Key) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (from_path) Tj (\() Tj (Category) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (kind) Tj (\(\),) Tj ( ) Tj (idnum) Tj (\)\)\)) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (put) Tj (\() Tj (entities) Tj (\)) Tj  T* (  ) Tj (print_status) Tj (\() Tj .729412 .129412 .129412 rg ("Categories are created succesfully.") Tj 0 0 0 rg (\)) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (delete_categories) Tj 0 0 0 rg (\(\):) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (delete) Tj (\() Tj (Category) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (all) Tj (\(\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fetch) Tj (\() Tj .4 .4 .4 rg (100) Tj 0 0 0 rg (\)\)) Tj  T* (  ) Tj (print_status) Tj (\() Tj .729412 .129412 .129412 rg ("Categories are deleted succesfully.") Tj 0 0 0 rg (\)) Tj  T*  T* (action_create_categories) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (create_db_manage_script) Tj (\() Tj  T* (  ) Tj (main_func) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (create_categories) Tj (,) Tj ( ) Tj (clean_func) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (delete_categories) Tj (,) Tj  T* (  ) Tj (description) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Create 'Category' entities") Tj 0 0 0 rg (\)) Tj T* ET
+BT 1 0 0 1 0 339.4 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# -*- coding: utf-8 -*-) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg /F4+0 10 Tf 12 TL (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (google.appengine.ext) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (db) Tj  T*  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.management.utils) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (\() Tj  T* (  ) Tj (print_status) Tj (,) Tj ( ) Tj (create_db_manage_script) Tj  T* (\)) Tj  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (myapp.models) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (Category) Tj  T*  T* (categories) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Programming') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Testing') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Management') Tj 0 0 0 rg (,) Tj  T* (]) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (create_categories) Tj 0 0 0 rg (\(\):) Tj  T* (  ) Tj (entities) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([]) Tj  T* (  ) Tj 0 .501961 0 rg (for) Tj 0 0 0 rg ( ) Tj (name) Tj ( ) Tj .666667 .133333 1 rg (in) Tj 0 0 0 rg ( ) Tj (categories) Tj (:) Tj  T* (    ) Tj (entities) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (append) Tj (\() Tj (Category) Tj (\() Tj (name) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (name) Tj (\)\)) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (put) Tj (\() Tj (entities) Tj (\)) Tj  T* (  ) Tj (print_status) Tj (\() Tj .729412 .129412 .129412 rg ("Categories are created succesfully.") Tj 0 0 0 rg (\)) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (delete_categories) Tj 0 0 0 rg (\(\):) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (delete) Tj (\() Tj (Category) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (all) Tj (\(\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fetch) Tj (\() Tj .4 .4 .4 rg (100) Tj 0 0 0 rg (\)\)) Tj  T* (  ) Tj (print_status) Tj (\() Tj .729412 .129412 .129412 rg ("Categories are deleted succesfully.") Tj 0 0 0 rg (\)) Tj  T*  T* (action_create_categories) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (create_db_manage_script) Tj (\() Tj  T* (  ) Tj (main_func) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (create_categories) Tj (,) Tj ( ) Tj (clean_func) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (delete_categories) Tj (,) Tj  T* (  ) Tj (description) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Create 'Category' entities") Tj 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 62.69291 359.8236 cm
+1 0 0 1 62.69291 383.8236 cm
 q
 BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\235\226\314\254\263\336\360\242 python manage.py \213\374) Tj /F2+1 10 Tf 12 TL (3) Tj /F2+0 10 Tf 12 TL (\244\216\217\213) Tj /F2+1 10 Tf 12 TL (\204) Tj /F2+0 10 Tf 12 TL (\223\203\204\303) Tj /F2+1 10 Tf 12 TL (\006\007) Tj /F2+0 10 Tf 12 TL (\305\306 \226\227:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 242.6236 cm
+1 0 0 1 62.69291 266.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -4558,19 +4914,19 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 222.6236 cm
+1 0 0 1 62.69291 246.6236 cm
 q
 BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\216\217\213\262\235\244\225\256 Category \213) Tj /F2+1 10 Tf 12 TL (\204) Tj /F2+0 10 Tf 12 TL (\223) Tj /F2+1 10 Tf 12 TL (Y) Tj /F2+0 10 Tf 12 TL (\340) Tj /F2+1 10 Tf 12 TL (Y) Tj /F2+0 10 Tf 12 TL (\340\221) Tj /F2+1 10 Tf 12 TL (\324K\006\007) Tj /F2+0 10 Tf 12 TL (\254\263\226\227\230) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 216.6236 cm
+1 0 0 1 62.69291 240.6236 cm
 Q
 q
-1 0 0 1 62.69291 216.6236 cm
+1 0 0 1 62.69291 240.6236 cm
 Q
 q
-1 0 0 1 62.69291 180.6236 cm
+1 0 0 1 62.69291 204.6236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -4598,13 +4954,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 180.6236 cm
+1 0 0 1 62.69291 204.6236 cm
 Q
 q
-1 0 0 1 62.69291 180.6236 cm
+1 0 0 1 62.69291 204.6236 cm
 Q
 q
-1 0 0 1 62.69291 144.6236 cm
+1 0 0 1 62.69291 168.6236 cm
 0 0 0 rg
 BT /F3 10 Tf 12 TL ET
 q
@@ -4632,28 +4988,35 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 144.6236 cm
+1 0 0 1 62.69291 168.6236 cm
 Q
 q
-1 0 0 1 62.69291 144.6236 cm
+1 0 0 1 62.69291 168.6236 cm
 Q
 q
-1 0 0 1 62.69291 114.6236 cm
+1 0 0 1 62.69291 138.6236 cm
 q
 BT 1 0 0 1 0 15.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Category \221) Tj /F2+1 10 Tf 12 TL (\006\007) Tj /F2+0 10 Tf 12 TL (\225\315\346\254\242\205\332\204\367\202\316\251\223\244\205\321) Tj /F2+1 10 Tf 12 TL (\033) Tj /F2+0 10 Tf 12 TL (\224\225\256) Tj /F2+1 10 Tf 12 TL (\026) Tj /F2+0 10 Tf 12 TL (\226\225\245\235\230 ) Tj /F2+1 10 Tf 12 TL (\324K) Tj /F2+0 10 Tf 12 TL (\213) Tj /F2+1 10 Tf 12 TL (\303\320\321) Tj /F2+0 10 Tf 12 TL (\303) Tj /F2+1 10 Tf 12 TL (\303\304) Tj /F2+0 10 Tf 12 TL (\336\262\235\244) Tj T* (\312\323\256\240\306\236\344) Tj /F2+1 10 Tf 12 TL (4) Tj /F2+0 10 Tf 12 TL (\254\227\230) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 102.6236 cm
+1 0 0 1 62.69291 120.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\240\314) Tj /F2+1 10 Tf 12 TL (K) Tj /F2+0 10 Tf 12 TL (\266\260) Tj /F2+1 10 Tf 12 TL (@) Tj /F2+0 10 Tf 12 TL (\223\203\221) Tj /F2+1 10 Tf 12 TL (\)Y\302) Tj /F2+0 10 Tf 12 TL (\204\221) Tj /F2+1 10 Tf 12 TL (\252\011) Tj /F2+0 10 Tf 12 TL (\225\256) Tj /F2+1 10 Tf 12 TL (\245\246) Tj /F2+0 10 Tf 12 TL (\225\242\337\202\331\224\203\205) Tj /F2+1 10 Tf 12 TL (=) Tj /F2+0 10 Tf 12 TL (\201\202\205\202\254) Tj /F2+1 10 Tf 12 TL (\222) Tj /F2+0 10 Tf 12 TL ( ) Tj /F2+1 10 Tf 12 TL (\016) Tj /F2+0 10 Tf 12 TL (\225\256) Tj /F2+1 10 Tf 12 TL (\026) Tj /F2+0 10 Tf 12 TL (\226\225\245\235\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 108.6236 cm
 Q
  
 endstream
 
 endobj
-% 'R79': class PDFStream 
-79 0 obj
+% 'R94': class PDFStream 
+94 0 obj
 % page stream
-<< /Length 1193 >>
+<< /Length 8093 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -4690,120 +5053,837 @@ Q
 q
 1 0 0 1 62.69291 676.0236 cm
 Q
+q
+1 0 0 1 62.69291 646.0236 cm
+q
+BT 1 0 0 1 0 5.1 Tm 18 TL 0 0 0 rg /F2+1 15 Tf 18 TL (\)Y\302) Tj /F2+0 15 Tf 18 TL (\204\202\213) Tj /F2+1 15 Tf 18 TL (\036\037) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 616.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+0 10 Tf 12 TL (\260) Tj /F2+1 10 Tf 12 TL (@) Tj /F2+0 10 Tf 12 TL (\223\203\213) Tj /F2+1 10 Tf 12 TL (\020\023) Tj /F2+0 10 Tf 12 TL (\244) Tj /F2+1 10 Tf 12 TL (\)Y\302) Tj /F2+0 10 Tf 12 TL (\204\202\221) Tj /F2+1 10 Tf 12 TL (\036\037) Tj /F2+0 10 Tf 12 TL (\227\336\262\235\244\225\256) Tj /F2+1 10 Tf 12 TL (\026) Tj /F2+0 10 Tf 12 TL (\226\225\245\235\230\260) Tj /F2+1 10 Tf 12 TL (@) Tj /F2+0 10 Tf 12 TL (\223\203\213) Tj /F2+1 10 Tf 12 TL (\020) Tj /F2+0 10 Tf 12 TL ( ) Tj /F2+1 10 Tf 12 TL (\023) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (\036\037) Tj /F2+0 10 Tf 12 TL (\225\256\240\336) Tj /F2+1 10 Tf 12 TL (s\024) Tj /F2+0 10 Tf 12 TL (\221) Tj T* (\216\217\213\262\235\244) Tj /F2+1 10 Tf 12 TL (b\307) Tj /F2+0 10 Tf 12 TL (\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 426.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 180 re B*
+Q
+q
+BT 1 0 0 1 0 159.4 Tm 12 TL 0 0 0 rg /F4+0 10 Tf 12 TL ({) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (if) Tj 0 0 0 rg ( ) Tj (comments) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg (}) Tj  T* (  ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (div) Tj ( ) Tj 0 .501961 0 rg (id) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("comment_list") Tj .4 .4 .4 rg (>) Tj 0 0 0 rg  T* (    ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (ul) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg  T* (    ) Tj ({) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (for) Tj 0 0 0 rg ( ) Tj (comment) Tj ( ) Tj .666667 .133333 1 rg (in) Tj 0 0 0 rg ( ) Tj (comments) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg (}) Tj  T* (      ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (li) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg ({{) Tj ( ) Tj (comment) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (body) Tj ( ) Tj (}}) Tj  T* (        ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (span) Tj ( ) Tj (class) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("author") Tj .4 .4 .4 rg (>) Tj 0 0 0 rg ( ) Tj (by) Tj ( ) Tj ({{) Tj ( ) Tj (comment) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (user) Tj ( ) Tj (}}) Tj .4 .4 .4 rg (<) Tj (/) Tj 0 0 0 rg (span) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg  T* (        ) Tj ({) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (if) Tj 0 0 0 rg ( ) Tj (comment) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (category) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg (}) Tj  T* (          ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (br) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg  T* (          ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (span) Tj ( ) Tj (class) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("category") Tj .4 .4 .4 rg (>) Tj 0 0 0 rg ( ) Tj .666667 .133333 1 rg (in) Tj 0 0 0 rg ( ) Tj ({{) Tj ( ) Tj (comment) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (category) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (name) Tj ( ) Tj (}}) Tj .4 .4 .4 rg (<) Tj (/) Tj 0 0 0 rg (span) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg  T* (        ) Tj ({) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj (endif) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg (}) Tj  T* (    ) Tj ({) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj (endfor) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg (}) Tj  T* (    ) Tj .4 .4 .4 rg (<) Tj (/) Tj 0 0 0 rg (ul) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg  T* (  ) Tj .4 .4 .4 rg (<) Tj (/) Tj 0 0 0 rg (div) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg  T* ({) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj (endif) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg (}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 396.8236 cm
+q
+BT 1 0 0 1 0 5.1 Tm 18 TL 0 0 0 rg /F2+0 15 Tf 18 TL (GRUD\213) Tj /F2+1 15 Tf 18 TL (/) Tj /F2+0 15 Tf 18 TL (\363) Tj /F2+1 15 Tf 18 TL (Z) Tj /F2+0 15 Tf 18 TL (\344) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+1 10 Tf 12 TL (;) Tj /F2+0 10 Tf 12 TL (\244\300\213) Tj /F2+1 10 Tf 12 TL (\)Y\302) Tj /F2+0 10 Tf 12 TL (\204\221\347\350\227\336) Tj /F2+1 10 Tf 12 TL (\214^) Tj /F2+0 10 Tf 12 TL (\221\322\344\225\256) Tj /F2+1 10 Tf 12 TL (\026) Tj /F2+0 10 Tf 12 TL (\226\227\230\347\350) Tj /F2+1 10 Tf 12 TL (\207) Tj /F2+0 10 Tf 12 TL (\213) Tj /F2+1 10 Tf 12 TL (\026) Tj /F2+0 10 Tf 12 TL (\303\205\321) Tj /F2+1 10 Tf 12 TL (\033) Tj /F2+0 10 Tf 12 TL (\224) Tj /F2+1 10 Tf 12 TL (\327) Tj /F2+0 10 Tf 12 TL ( ) Tj /F2+1 10 Tf 12 TL (\230) Tj /F2+0 10 Tf 12 TL (\312\242) Tj /F2+1 10 Tf 12 TL (\)Y\302) Tj /F2+0 10 Tf 12 TL (\204\213) Tj /F2+1 10 Tf 12 TL (\006\007\261) Tj T* (\330\331\261b\307) Tj /F2+0 10 Tf 12 TL (\303\254\263\336) Tj /F2+1 10 Tf 12 TL (\214^) Tj /F2+0 10 Tf 12 TL (\221\322\344\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 348.8236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\226) Tj /F2+1 10 Tf 12 TL (\005) Tj /F2+0 10 Tf 12 TL ( Category \255\213\355\356\202\357\221\322\344\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (myapp/forms.py:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 105.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 216 re B*
+Q
+q
+BT 1 0 0 1 0 195.4 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# -*- coding: utf-8 -*-) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg /F4+0 10 Tf 12 TL (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.utils) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (forms) Tj  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.utils.forms.modelform) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (ModelForm) Tj  T*  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (myapp.models) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (\() Tj  T* (  ) Tj (Comment) Tj (,) Tj ( ) Tj (Category) Tj  T* (\)) Tj  T*  T* 0 .501961 0 rg (class) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (CommentForm) Tj 0 0 0 rg (\() Tj (ModelForm) Tj (\):) Tj  T* (  ) Tj 0 .501961 0 rg (class) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (Meta) Tj 0 0 0 rg (:) Tj  T* (    ) Tj (model) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (Comment) Tj  T* (    ) Tj (exclude) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (\() Tj .729412 .129412 .129412 rg ('user') Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ('created') Tj 0 0 0 rg (\)) Tj  T*  T* 0 .501961 0 rg (class) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (CategoryForm) Tj 0 0 0 rg (\() Tj (ModelForm) Tj (\):) Tj  T* (  ) Tj 0 .501961 0 rg (class) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (Meta) Tj 0 0 0 rg (:) Tj  T* (    ) Tj (model) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (Category) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 85.62362 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (Category \221\222\223\246\202\203\225\242\271\315\244 CategoryForm \221) Tj /F2+1 10 Tf 12 TL (\0119) Tj /F2+0 10 Tf 12 TL (\225\256\240\226\227\230) Tj T* ET
+Q
+Q
  
 endstream
 
 endobj
-% 'R80': class PDFPageLabels 
-80 0 obj
+% 'R95': class PDFStream 
+95 0 obj
+% page stream
+<< /Length 8449 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+1 10 Tf 12 TL (;) Tj /F2+0 10 Tf 12 TL (\244 myapp/urls.py \221\216\217\213\262\235\244) Tj /F2+1 10 Tf 12 TL (b\307) Tj /F2+0 10 Tf 12 TL (\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 204 re B*
+Q
+q
+BT 1 0 0 1 0 183.4 Tm 12 TL 0 .501961 0 rg /F4+0 10 Tf 12 TL (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (generics) Tj  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.routing) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (\() Tj  T* (  ) Tj (ViewGroup) Tj (,) Tj ( ) Tj (Rule) Tj  T* (\)) Tj  T*  T* 0 .501961 0 rg (class) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (CategoryCRUDViewGroup) Tj 0 0 0 rg (\() Tj (generics) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (CRUDViewGroup) Tj (\):) Tj  T* (  ) Tj (model) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('myapp.models.Category') Tj 0 0 0 rg  T* (  ) Tj (form) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('myapp.forms.CategoryForm') Tj 0 0 0 rg  T* (  ) Tj (authorize) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (generics) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (admin_required) Tj  T*  T* (view_groups) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([) Tj  T* (  ) Tj (ViewGroup) Tj (\() Tj  T* (    ) Tj (Rule) Tj (\() Tj .729412 .129412 .129412 rg ('/') Tj 0 0 0 rg (,) Tj ( ) Tj (endpoint) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('index') Tj 0 0 0 rg (,) Tj ( ) Tj (view) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ('myapp.views.index') Tj 0 0 0 rg (\),) Tj  T* (  ) Tj (\),) Tj  T* (  ) Tj (CategoryCRUDViewGroup) Tj (\(\),) Tj  T* (]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 519.8236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\270\346\244 settings.py \213 MIDDLEWARE_CLASSES \244 kay.utils.flash.FlashMiddleware \221) Tj /F2+1 10 Tf 12 TL (\006\007) Tj /F2+0 10 Tf 12 TL (\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+BT 1 0 0 1 0 39.4 Tm 12 TL 0 0 0 rg /F4+0 10 Tf 12 TL (MIDDLEWARE_CLASSES) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (\() Tj  T* (  ) Tj .729412 .129412 .129412 rg ('kay.auth.middleware.AuthenticationMiddleware') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .729412 .129412 .129412 rg ('kay.utils.flash.FlashMiddleware') Tj 0 0 0 rg (,) Tj  T* (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 418.6236 cm
+q
+BT 1 0 0 1 0 15.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\300\306\254 ) Tj 0 0 .501961 rg (http://localhost:8080/category/list) Tj 0 0 0 rg ( \244\205\321) Tj /F2+1 10 Tf 12 TL (\033) Tj /F2+0 10 Tf 12 TL (\224\227\336\360) Tj /F2+1 10 Tf 12 TL (\)Y\302) Tj /F2+0 10 Tf 12 TL (\204\202\213 \204\224\203\303) Tj /F2+1 10 Tf 12 TL (\036\037) Tj /F2+0 10 Tf 12 TL (\305\306\336\241) Tj /F2+1 10 Tf 12 TL (\005) Tj /F2+0 10 Tf 12 TL (\254) Tj T* (\227\230) Tj /F2+1 10 Tf 12 TL (\006\007c\001\002) Tj /F2+0 10 Tf 12 TL (\312) Tj /F2+1 10 Tf 12 TL (\012) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (\272) Tj /F2+0 10 Tf 12 TL (\225\256) Tj /F2+1 10 Tf 12 TL (\026) Tj /F2+0 10 Tf 12 TL (\256\314\311\305\240\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 406.6236 cm
+Q
+q
+1 0 0 1 62.69291 335.6236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2+0 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (CRUD\213) Tj /F2+1 10 Tf 12 TL (/) Tj /F2+0 10 Tf 12 TL (\363) Tj /F2+1 10 Tf 12 TL (Z) Tj /F2+0 10 Tf 12 TL (\344\244) Tj /F2+1 10 Tf 12 TL (K) Tj /F2+0 10 Tf 12 TL (\240\256\242\305\267\244) Tj /F2+1 10 Tf 12 TL (\325) Tj /F2+0 10 Tf 12 TL (\225\314\241 ) Tj 0 0 .501961 rg /F2+1 10 Tf 12 TL (\332) Tj /F2+0 10 Tf 12 TL (\255) Tj /F2+1 10 Tf 12 TL (=) Tj /F2+0 10 Tf 12 TL (\201\202\372\206\202\332) Tj 0 0 0 rg ( \221) Tj /F2+1 10 Tf 12 TL (\022\023) Tj /F2+0 10 Tf 12 TL (\216\305\240\230) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 329.6236 cm
+Q
+q
+1 0 0 1 62.69291 299.6236 cm
+q
+BT 1 0 0 1 0 5.1 Tm 18 TL 0 0 0 rg /F2+1 15 Tf 18 TL (\)Y\302) Tj /F2+0 15 Tf 18 TL (\204\202) Tj /F2+1 15 Tf 18 TL (\330\331) Tj /F2+0 15 Tf 18 TL (\364\213) Tj /F2+1 15 Tf 18 TL (7\333) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 269.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+0 10 Tf 12 TL (\304\244) Tj /F2+1 10 Tf 12 TL (x:) Tj /F2+0 10 Tf 12 TL (\240\315) Tj /F2+1 10 Tf 12 TL (?) Tj /F2+0 10 Tf 12 TL (\220\240\267\323\225) Tj /F2+1 10 Tf 12 TL (\334) Tj /F2+0 10 Tf 12 TL (\336\266\220) Tj /F2+1 10 Tf 12 TL (\326) Tj /F2+0 10 Tf 12 TL (\306\226\327\330\303\242\300\213) Tj /F2+1 10 Tf 12 TL (\316\317) Tj /F2+0 10 Tf 12 TL (\254\242\260) Tj /F2+1 10 Tf 12 TL (@) Tj /F2+0 10 Tf 12 TL (\223\203\303) Tj /F2+1 10 Tf 12 TL (\020) Tj /F2+0 10 Tf 12 TL ( ) Tj /F2+1 10 Tf 12 TL (K\335\301\336) Tj /F2+0 10 Tf 12 TL (\225\256\240\336) Tj /F2+1 10 Tf 12 TL (\)Y\302) Tj T* /F2+0 10 Tf 12 TL (\204\202\221) Tj /F2+1 10 Tf 12 TL (\330\331) Tj /F2+0 10 Tf 12 TL (\227\336\360\242\260) Tj /F2+1 10 Tf 12 TL (@) Tj /F2+0 10 Tf 12 TL (\223\203\213) Tj /F2+1 10 Tf 12 TL (\036\037) Tj /F2+0 10 Tf 12 TL (\364\244) Tj /F2+1 10 Tf 12 TL (\204) Tj /F2+0 10 Tf 12 TL (\324\202\244\312\323 \256\225\226\240\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 251.6236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\300\300\254\241\242) Tj /F2+1 10 Tf 12 TL (\)) Tj /F2+0 10 Tf 12 TL (\224\367\202\261\337\204\202\203\221) Tj /F2+1 10 Tf 12 TL ($\224) Tj /F2+0 10 Tf 12 TL (\227\336\315\335\244 db_hook \213) Tj /F2+1 10 Tf 12 TL (\311\312\026) Tj /F2+0 10 Tf 12 TL (\221\234\255 \225\226\225\245\235\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 209.6236 cm
+q
+BT 1 0 0 1 0 27.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\220\225) Tj /F2+1 10 Tf 12 TL (\204) Tj /F2+0 10 Tf 12 TL (\324\202\244\312\323\256\225\226\323\315) Tj /F2+1 10 Tf 12 TL (?) Tj /F2+0 10 Tf 12 TL (\241\242\302) Tj /F2+1 10 Tf 12 TL (\337) Tj /F2+0 10 Tf 12 TL (\213\260) Tj /F2+1 10 Tf 12 TL (@) Tj /F2+0 10 Tf 12 TL (\223\203\221\337\202\331\224\203\205) Tj /F2+1 10 Tf 12 TL (=) Tj /F2+0 10 Tf 12 TL (\201\202\205\202 \266\267) Tj /F2+1 10 Tf 12 TL (\340\341) Tj /F2+0 10 Tf 12 TL (\227\336\266\242\207\210\255\354\202) Tj T* (\250\202\221) Tj /F2+1 10 Tf 12 TL (\020\306\342) Tj /F2+0 10 Tf 12 TL (\335\256 python manage.py runserver -c \360 -c \221) Tj /F2+1 10 Tf 12 TL (y) Tj /F2+0 10 Tf 12 TL (\313\256\337\202\331\221) Tj /F2+1 10 Tf 12 TL (\343\330\331) Tj /F2+0 10 Tf 12 TL (\225\242) Tj /F2+1 10 Tf 12 TL (\344\306\)Y\302) Tj /F2+0 10 Tf 12 TL (\204\202) Tj /F2+1 10 Tf 12 TL (\261) Tj T* /F2+0 10 Tf 12 TL (\260) Tj /F2+1 10 Tf 12 TL (@) Tj /F2+0 10 Tf 12 TL (\223\203 \221\322\344\225\256\266\267) Tj /F2+1 10 Tf 12 TL (\345) Tj /F2+0 10 Tf 12 TL (\330\254\314\311\305\240\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 191.6236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\226) Tj /F2+1 10 Tf 12 TL (\005) Tj /F2+0 10 Tf 12 TL (\241 settings.py \254 db_hook \213) Tj /F2+1 10 Tf 12 TL (\311\312\026) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (tv) Tj /F2+0 10 Tf 12 TL (\244\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F4+0 10 Tf 12 TL (USE_DB_HOOK) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (True) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 138.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+1 10 Tf 12 TL (;) Tj /F2+0 10 Tf 12 TL (\244\216\217\213\262\235\244\225\256 myapp/__init__.py \254\355\320\321) Tj /F2+1 10 Tf 12 TL (IJ) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (\003\004) Tj /F2+0 10 Tf 12 TL (\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (myapp/__init__.py:) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R96': class PDFStream 
+96 0 obj
+% page stream
+<< /Length 8216 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 559.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 204 re B*
+Q
+q
+BT 1 0 0 1 0 183.4 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# -*- coding: utf-8 -*-) Tj 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# Kay application: myapp) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg /F4+0 10 Tf 12 TL (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (google.appengine.ext) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (db) Tj  T*  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.utils.db_hook) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (register_pre_delete_hook) Tj  T*  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (myapp.models) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (\() Tj  T* (  ) Tj (Comment) Tj (,) Tj ( ) Tj (Category) Tj  T* (\)) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (cascade_delete) Tj 0 0 0 rg (\() Tj (key) Tj (\):) Tj  T* (  ) Tj (entities) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (Comment) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (all) Tj (\() Tj (keys_only) Tj .4 .4 .4 rg (=) Tj 0 .501961 0 rg (True) Tj 0 0 0 rg (\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (filter) Tj (\() Tj .729412 .129412 .129412 rg ('category =') Tj 0 0 0 rg (,) Tj ( ) Tj (key) Tj (\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fetch) Tj (\() Tj .4 .4 .4 rg (2000) Tj 0 0 0 rg (\)) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (delete) Tj (\() Tj (entities) Tj (\)) Tj  T*  T* (register_pre_delete_hook) Tj (\() Tj (cascade_delete) Tj (,) Tj ( ) Tj (Category) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 527.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+0 10 Tf 12 TL (\300\300\254\241 ad-hoc \244 2000 ) Tj /F2+1 10 Tf 12 TL (\300) Tj /F2+0 10 Tf 12 TL (\213) Tj /F2+1 10 Tf 12 TL (\026V\346) Tj /F2+0 10 Tf 12 TL (\225\256) Tj /F2+1 10 Tf 12 TL (\340\341) Tj /F2+0 10 Tf 12 TL (\225\256\240\226\227\303\242) Tj /F2+1 10 Tf 12 TL ($%) Tj /F2+0 10 Tf 12 TL (\244\263\310\330\360 ) Tj /F2+1 10 Tf 12 TL ($\224) Tj /F2+0 10 Tf 12 TL (\227\336\244\241\220\235) Tj /F2+1 10 Tf 12 TL (5) Tj /F2+0 10 Tf 12 TL (\225\303) Tj T* (\330\236\323\256\314\311\305\240\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+0 10 Tf 12 TL (\300\213) Tj /F2+1 10 Tf 12 TL (\031\032) Tj /F2+0 10 Tf 12 TL (\254) Tj /F2+1 10 Tf 12 TL (\)Y\302) Tj /F2+0 10 Tf 12 TL (\204\202\221) Tj /F2+1 10 Tf 12 TL (\340\341) Tj /F2+0 10 Tf 12 TL (\227\336\360\242\307\213) Tj /F2+1 10 Tf 12 TL (\)Y\302) Tj /F2+0 10 Tf 12 TL (\204\202\244) Tj /F2+1 10 Tf 12 TL (\336) Tj /F2+0 10 Tf 12 TL (\227\336\260) Tj /F2+1 10 Tf 12 TL (@) Tj /F2+0 10 Tf 12 TL (\223\203\220\307\306 \244) Tj /F2+1 10 Tf 12 TL (\347) Tj /F2+0 10 Tf 12 TL (\323\256) Tj /F2+1 10 Tf 12 TL (\330\331) Tj /F2+0 10 Tf 12 TL (\305\306\336\241) Tj /F2+1 10 Tf 12 TL (\005) Tj T* /F2+0 10 Tf 12 TL (\254\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.8236 cm
+Q
+q
+1 0 0 1 62.69291 414.8236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2+0 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (db_hook ) Tj /F2+1 10 Tf 12 TL (\227\230) Tj /F2+0 10 Tf 12 TL (\244) Tj /F2+1 10 Tf 12 TL (K) Tj /F2+0 10 Tf 12 TL (\240\256\305\267\244) Tj /F2+1 10 Tf 12 TL (\325) Tj /F2+0 10 Tf 12 TL (\225\314\241 ) Tj 0 0 .501961 rg (db_hook ) Tj /F2+1 10 Tf 12 TL (\227\230) Tj /F2+0 10 Tf 12 TL (\221\234\255\227\336) Tj 0 0 0 rg ( \221) Tj /F2+1 10 Tf 12 TL (\022\023) Tj /F2+0 10 Tf 12 TL (\216\305\240\230) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 408.8236 cm
+Q
+q
+1 0 0 1 62.69291 375.8236 cm
+q
+BT 1 0 0 1 0 5.95 Tm 21 TL 0 0 0 rg /F2+1 17.5 Tf 21 TL (\223) Tj /F2+0 17.5 Tf 21 TL (\224\203) Tj /F2+1 17.5 Tf 21 TL (R) Tj /F2+0 17.5 Tf 21 TL (\320\321\213) Tj /F2+1 17.5 Tf 21 TL ($\224) Tj /F2+0 17.5 Tf 21 TL ( - Step 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+1 10 Tf 12 TL (;) Tj /F2+0 10 Tf 12 TL (\244\205\332\204\367\202\316\251\223\221) Tj /F2+1 10 Tf 12 TL (\350%\351) Tj /F2+0 10 Tf 12 TL (\225\256) Tj /F2+1 10 Tf 12 TL (\026) Tj /F2+0 10 Tf 12 TL (\226\225\245\235\230Kay \254\241 gettext ) Tj /F2+1 10 Tf 12 TL (\254) Tj /F2+0 10 Tf 12 TL (\202\224\213) Tj /F2+1 10 Tf 12 TL (\350) Tj /F2+0 10 Tf 12 TL ( ) Tj /F2+1 10 Tf 12 TL (%\351\227\230) Tj /F2+0 10 Tf 12 TL (\303\215) Tj /F2+1 10 Tf 12 TL (P) Tj /F2+0 10 Tf 12 TL (\323\256\240\226) Tj T* (\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.8236 cm
+q
+BT 1 0 0 1 0 5.1 Tm 18 TL 0 0 0 rg /F2+1 15 Tf 18 TL (\350%\351) Tj /F2+0 15 Tf 18 TL (\221) Tj /F2+1 15 Tf 18 TL (tv) Tj /F2+0 15 Tf 18 TL (\244\227\336) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 297.8236 cm
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\226) Tj /F2+1 10 Tf 12 TL (\005) Tj /F2+0 10 Tf 12 TL (\241 settings.py \254 USE_I18N \221 True \244) Tj /F2+1 10 Tf 12 TL (\010\011) Tj /F2+0 10 Tf 12 TL (\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+BT 1 0 0 1 0 3.4 Tm 12 TL 0 0 0 rg /F4+0 10 Tf 12 TL (USE_I18N) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (True) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 232.6236 cm
+q
+BT 1 0 0 1 0 15.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (\300\213) Tj /F2+1 10 Tf 12 TL (\316\317) Tj /F2+0 10 Tf 12 TL (\254\242) Tj /F2+1 10 Tf 12 TL (\237\352\353\354) Tj /F2+0 10 Tf 12 TL (\244) Tj /F2+1 10 Tf 12 TL (\350%\351) Tj /F2+0 10 Tf 12 TL (\305\306\256\240\336\353\360) Tj /F2+1 10 Tf 12 TL (\025) Tj /F2+0 10 Tf 12 TL (\240\226\227\230accept_language \254 ) Tj /F2+1 10 Tf 12 TL (\244G\355) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (\356\260) Tj /F2+0 10 Tf 12 TL (\225\315) Tj /F2+1 10 Tf 12 TL (\031\032) Tj /F2+0 10 Tf 12 TL (\254\205) Tj T* (\321) Tj /F2+1 10 Tf 12 TL (\033) Tj /F2+0 10 Tf 12 TL (\224\227\336\360\242\203\320\332) Tj /F2+1 10 Tf 12 TL (\215) Tj /F2+0 10 Tf 12 TL (\202\247\213 submit \303 ) Tj /F2+1 10 Tf 12 TL (\357) Tj /F2+0 10 Tf 12 TL ( ) Tj /F2+1 10 Tf 12 TL (\360) Tj /F2+0 10 Tf 12 TL ( \244) Tj /F2+1 10 Tf 12 TL (bP) Tj /F2+0 10 Tf 12 TL (\323\256\240\336\353\303) Tj /F2+1 10 Tf 12 TL (P) Tj /F2+0 10 Tf 12 TL (\266\326\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 202.6236 cm
+q
+BT 1 0 0 1 0 5.1 Tm 18 TL 0 0 0 rg /F2+1 15 Tf 18 TL (\350%\351) Tj /F2+0 15 Tf 18 TL (\213\315\335\244) Tj /F2+1 15 Tf 18 TL (@) Tj /F2+0 15 Tf 18 TL (\320) Tj /F2+1 15 Tf 18 TL (\033) Tj /F2+0 15 Tf 18 TL (\202\247\221) Tj /F2+1 15 Tf 18 TL (\013) Tj /F2+0 15 Tf 18 TL (\202\321\227\336) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 184.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\226) Tj /F2+1 10 Tf 12 TL (\005) Tj /F2+0 10 Tf 12 TL (\241\355\356\202\357\244) Tj /F2+1 10 Tf 12 TL (\036\037) Tj /F2+0 10 Tf 12 TL (\227\336\355\340\202\206\261\213\331\222\203\206\221) Tj /F2+1 10 Tf 12 TL (\013) Tj /F2+0 10 Tf 12 TL (\202\321\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 166.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (myapp/models.py:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 85.42362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+BT 1 0 0 1 0 51.4 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# -*- coding: utf-8 -*-) Tj 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# myapp.models) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg /F4+0 10 Tf 12 TL (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (google.appengine.ext) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (db) Tj  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.auth.models) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (GoogleUser) Tj  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R97': class PDFStream 
+97 0 obj
+% page stream
+<< /Length 6818 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 523.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 240 re B*
+Q
+q
+BT 1 0 0 1 0 219.4 Tm 12 TL 0 .501961 0 rg /F4+0 10 Tf 12 TL (import) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.db) Tj 0 0 0 rg  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.i18n) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (lazy_gettext) Tj ( ) Tj 0 .501961 0 rg (as) Tj 0 0 0 rg ( ) Tj (_) Tj  T*  T* /F5 10 Tf .25098 .501961 .501961 rg (# Create your models here.) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg /F4+0 10 Tf 12 TL (class) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (MyUser) Tj 0 0 0 rg (\() Tj (GoogleUser) Tj (\):) Tj  T* (  ) Tj 0 .501961 0 rg (pass) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg (class) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (Category) Tj 0 0 0 rg (\() Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Model) Tj (\):) Tj  T* (  ) Tj (name) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (StringProperty) Tj (\() Tj (required) Tj .4 .4 .4 rg (=) Tj 0 .501961 0 rg (True) Tj 0 0 0 rg (,) Tj ( ) Tj (verbose_name) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (_) Tj (\() Tj .729412 .129412 .129412 rg (u'Name') Tj 0 0 0 rg (\)\)) Tj  T*  T* (  ) Tj 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (__unicode__) Tj 0 0 0 rg (\() Tj 0 .501961 0 rg (self) Tj 0 0 0 rg (\):) Tj  T* (    ) Tj 0 .501961 0 rg (return) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (self) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (name) Tj  T*  T* 0 .501961 0 rg (class) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (Comment) Tj 0 0 0 rg (\() Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (Model) Tj (\):) Tj  T* (  ) Tj (user) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (kay) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (OwnerProperty) Tj (\(\)) Tj  T* (  ) Tj (category) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (ReferenceProperty) Tj (\() Tj (Category) Tj (,) Tj ( ) Tj (verbose_name) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (_) Tj (\() Tj .729412 .129412 .129412 rg (u'Category') Tj 0 0 0 rg (\)\)) Tj  T* (  ) Tj (body) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (StringProperty) Tj (\() Tj (required) Tj .4 .4 .4 rg (=) Tj 0 .501961 0 rg (True) Tj 0 0 0 rg (,) Tj ( ) Tj (verbose_name) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (_) Tj (\() Tj .729412 .129412 .129412 rg (u'Your Comment') Tj 0 0 0 rg (\)\)) Tj  T* (  ) Tj (created) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (DateTimeProperty) Tj (\() Tj (auto_now_add) Tj .4 .4 .4 rg (=) Tj 0 .501961 0 rg (True) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 491.8236 cm
+q
+BT 1 0 0 1 0 15.4 Tm 12 TL 0 0 0 rg /F2+0 10 Tf 12 TL (kay.i18n.lazy_gettext \221 _ \360\225\256 import \225\256\240\226\227\230) Tj /F2+1 10 Tf 12 TL (\307) Tj /F2+0 10 Tf 12 TL (\244\355\356\202 \357\244) Tj /F2+1 10 Tf 12 TL (\036\037) Tj /F2+0 10 Tf 12 TL (\227\336\355\340\202\206\261\244\241 verbo) Tj T* (se_name \360\240\235) Tj /F2+1 10 Tf 12 TL (TJ) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (]) Tj /F2+0 10 Tf 12 TL (\227\262\235\244\225\256\242 ) Tj /F2+1 10 Tf 12 TL ([) Tj /F2+0 10 Tf 12 TL (\221 _\(\) \213\370) Tj /F2+1 10 Tf 12 TL (d) Tj /F2+0 10 Tf 12 TL (\374\225\254) Tj /F2+1 10 Tf 12 TL (a) Tj /F2+0 10 Tf 12 TL (\330\254) Tj /F2+1 10 Tf 12 TL (\015) Tj /F2+0 10 Tf 12 TL (\263\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 473.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+1 10 Tf 12 TL (;) Tj /F2+0 10 Tf 12 TL (\241) Tj /F2+1 10 Tf 12 TL (Y) Tj /F2+0 10 Tf 12 TL (\223\332\341\202\203\352) Tj /F2+1 10 Tf 12 TL (s) Tj /F2+0 10 Tf 12 TL (\213) Tj /F2+1 10 Tf 12 TL (!"#) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (\013) Tj /F2+0 10 Tf 12 TL (\202\321\225\226\225\245\235\230\300\300\254\241) Tj /F2+1 10 Tf 12 TL (\361\362) Tj /F2+0 10 Tf 12 TL (\213\315\335) Tj /F2+1 10 Tf 12 TL (_K) Tj /F2+0 10 Tf 12 TL ( \213) Tj /F2+1 10 Tf 12 TL (?u) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (\272) Tj /F2+0 10 Tf 12 TL (\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (myapp/templates/index.html:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 326.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 120 re B*
+Q
+q
+BT 1 0 0 1 0 99.4 Tm 12 TL 0 .501961 0 rg /F4+0 10 Tf 12 TL (<) Tj (div) Tj 0 0 0 rg ( ) Tj .490196 .564706 .160784 rg (id=) Tj .729412 .129412 .129412 rg ("greeting") Tj 0 .501961 0 rg (>) Tj 0 0 0 rg  T* (  {% if request.user.is_anonymous\(\) %}) Tj T* (    ) Tj 0 .501961 0 rg (<) Tj (a) Tj 0 0 0 rg ( ) Tj .490196 .564706 .160784 rg (href=) Tj .729412 .129412 .129412 rg ("{{ create_login_url\(\) }}") Tj 0 .501961 0 rg (>) Tj 0 0 0 rg ({{ _\('login'\) }}) Tj 0 .501961 0 rg (<) Tj (/a) Tj (>) Tj 0 0 0 rg  T* (  {% else %}) Tj T* (    Hello {{ request.user }}! ) Tj 0 .501961 0 rg (<) Tj (a) Tj 0 0 0 rg ( ) Tj .490196 .564706 .160784 rg (href=) Tj .729412 .129412 .129412 rg ("{{ create_logout_url\(\) }}") Tj 0 .501961 0 rg (>) Tj 0 0 0 rg  T* (      {% trans %}logout{% endtrans %}) Tj T* (    ) Tj 0 .501961 0 rg (<) Tj (/a) Tj (>) Tj 0 0 0 rg  T* (  {% endif %}) Tj T* 0 .501961 0 rg (<) Tj (/div) Tj (>) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 296.6236 cm
+q
+BT 1 0 0 1 0 5.1 Tm 18 TL 0 0 0 rg /F2+1 15 Tf 18 TL (\363\364) Tj /F2+0 15 Tf 18 TL (\221\322\344\227\336) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\216\217\213\260) Tj /F2+1 10 Tf 12 TL (\013) Tj /F2+0 10 Tf 12 TL (\223\261\254) Tj /F2+1 10 Tf 12 TL (\013) Tj /F2+0 10 Tf 12 TL (\202\321\225\315) Tj /F2+1 10 Tf 12 TL (!"#) Tj /F2+0 10 Tf 12 TL (\221) Tj /F2+1 10 Tf 12 TL (\365) Tj /F2+0 10 Tf 12 TL (\374\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 144 re B*
+Q
+q
+BT 1 0 0 1 0 123.4 Tm 12 TL .098039 .090196 .486275 rg /F4+0 10 Tf 12 TL ($ ) Tj 0 0 0 rg (python manage.py extract_messages -a) Tj T* (Running on Kay-0.10.0) Tj T* (Extracting from /Users/tmatsuo/work/kay-tutorial/myproject/myapp) Tj T* (myapp/__init__.py) Tj T* (myapp/forms.py) Tj T* (myapp/management.py) Tj T* (myapp/models.py) Tj T* (myapp/urls.py) Tj T* (myapp/views.py) Tj T* (myapp/templates/index.html) Tj T* (All ) Tj 0 .501961 0 rg (done) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 105.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+1 10 Tf 12 TL (\244G\355) Tj /F2+0 10 Tf 12 TL (\255\213 po \355) Tj /F2+1 10 Tf 12 TL (6) Tj /F2+0 10 Tf 12 TL (\222\206\221\322\344\225\226\227\230) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R98': class PDFStream 
+98 0 obj
+% page stream
+<< /Length 5064 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 655.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 108 re B*
+Q
+q
+BT 1 0 0 1 0 87.4 Tm 12 TL .098039 .090196 .486275 rg /F4+0 10 Tf 12 TL ($ ) Tj 0 0 0 rg (python manage.py add_translations -a -l ja) Tj T* (Running on Kay-0.10.0) Tj T* (Creating myapp/i18n/ja/LC_MESSAGES/messages.po.) Tj T* (Cant open file. Skipped myapp/i18n/jsmessages.pot.) Tj T* (Created catalog ) Tj 0 .501961 0 rg (for ) Tj 0 0 0 rg (ja) Tj T* (Cant open file. Skipped /Users/tmatsuo/work/kay-tutorial/myproject/i18n/messages.pot.) Tj T* (Cant open file. Skipped /Users/tmatsuo/work/kay-tutorial/myproject/i18n/jsmessages.pot.) Tj T* (Created catalog ) Tj 0 .501961 0 rg (for ) Tj 0 0 0 rg (ja) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 635.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (myapp/i18n/ja/LC_MESSAGES/messages.po \221) Tj /F2+1 10 Tf 12 TL (\204) Tj /F2+0 10 Tf 12 TL (\337\340\331\254) Tj /F2+1 10 Tf 12 TL (\001\002) Tj /F2+0 10 Tf 12 TL (\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 158.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 468 re B*
+Q
+q
+BT 1 0 0 1 0 447.4 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# Japanese translations for PROJECT.) Tj 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# Copyright \(C\) 2010 Takashi Matsuo) Tj 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# This file is distributed under the same license as the PROJECT project.) Tj 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (# FIRST AUTHOR ) Tj (<) Tj (EMAIL@ADDRESS) Tj (>) Tj (, 2010.) Tj 0 0 0 rg  T* /F5 10 Tf .25098 .501961 .501961 rg (#) Tj 0 0 0 rg  T* .098039 .090196 .486275 rg /F4+0 10 Tf 12 TL (msgid) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("") Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgstr) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (Project-Id-Version:) Tj .729412 .129412 .129412 rg ( myproject-0.1\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (Report-Msgid-Bugs-To:) Tj .729412 .129412 .129412 rg ( tmatsuo@candit.jp\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (POT-Creation-Date:) Tj .729412 .129412 .129412 rg ( 2010-05-06 16:39+0900\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (PO-Revision-Date:) Tj .729412 .129412 .129412 rg ( 2010-05-06 16:39+0900\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (Last-Translator:) Tj .729412 .129412 .129412 rg ( FULL NAME ) Tj (<) Tj (EMAIL@ADDRESS) Tj (>) Tj (\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (Language-Team:) Tj .729412 .129412 .129412 rg ( ja ) Tj (<) Tj (LL@li.org) Tj (>) Tj (\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (Plural-Forms:) Tj .729412 .129412 .129412 rg ( nplurals=1; plural=0\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (MIME-Version:) Tj .729412 .129412 .129412 rg ( 1.0\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (Content-Type:) Tj .729412 .129412 .129412 rg ( text/plain; charset=utf-8\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (Content-Transfer-Encoding:) Tj .729412 .129412 .129412 rg ( 8bit\\n") Tj 0 0 0 rg  T* .729412 .129412 .129412 rg (") Tj 0 0 0 rg (Generated-By:) Tj .729412 .129412 .129412 rg ( Babel None\\n") Tj 0 0 0 rg  T*  T* 0 .501961 0 rg (#: myapp/models.py:15) Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgid) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("Name") Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgstr) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("\200\201\202\203\204\205") Tj 0 0 0 rg  T*  T* 0 .501961 0 rg (#: myapp/models.py:22) Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgid) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("Category") Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgstr) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("\200\201\202\203\204") Tj 0 0 0 rg  T*  T* 0 .501961 0 rg (#: myapp/models.py:23) Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgid) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("Your Comment") Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgstr) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("\206\207\210\211") Tj 0 0 0 rg  T*  T* 0 .501961 0 rg (#: myapp/templates/index.html:11) Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgid) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("login") Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgstr) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("\212\213\214\210") Tj 0 0 0 rg  T*  T* 0 .501961 0 rg (#: myapp/templates/index.html:14) Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgid) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("logout") Tj 0 0 0 rg  T* .098039 .090196 .486275 rg (msgstr) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ("\212\213\215\216\211") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 138.6236 cm
+Q
+ 
+endstream
+
+endobj
+% 'R99': class PDFStream 
+99 0 obj
+% page stream
+<< /Length 2291 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 694.0236 cm
+.960784 .960784 .862745 rg
+n 0 71 469.8898 -71 re f*
+0 0 0 rg
+BT /F3 10 Tf 12 TL ET
+BT 1 0 0 1 6 45 Tm  T* ET
+q
+1 0 0 1 16 40 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F2+0 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+0 10 Tf 12 TL (\300\213\355) Tj /F2+1 10 Tf 12 TL (6) Tj /F2+0 10 Tf 12 TL (\222\206\241) Tj /F2+1 10 Tf 12 TL (!") Tj /F2+0 10 Tf 12 TL (\260\202\261\221 UTF-8 \254) Tj /F2+1 10 Tf 12 TL (\242\243) Tj /F2+0 10 Tf 12 TL (\225\256\314\311\305\240\230) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 71 m 469.8898 71 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 71 l S
+n 469.8898 0 m 469.8898 71 l S
+Q
+Q
+q
+1 0 0 1 62.69291 688.0236 cm
+Q
+q
+1 0 0 1 62.69291 670.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2+1 10 Tf 12 TL (\301) Tj /F2+0 10 Tf 12 TL (\217\213\262\235\244) Tj /F2+1 10 Tf 12 TL (\001\002) Tj /F2+0 10 Tf 12 TL (\225\315\346\244\242\300\213\355) Tj /F2+1 10 Tf 12 TL (6) Tj /F2+0 10 Tf 12 TL (\222\206\221\260\223) Tj /F2+1 10 Tf 12 TL (,) Tj /F2+0 10 Tf 12 TL (\222\206\225\226\227\230) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+BT 1 0 0 1 0 63.4 Tm 12 TL .098039 .090196 .486275 rg /F4+0 10 Tf 12 TL ($ ) Tj 0 0 0 rg (python manage.py compile_translations -a) Tj T* (Running on Kay-0.10.0) Tj T* (Compiling myapp/i18n) Tj T* (Compiling myapp/i18n/ja/LC_MESSAGES/messages.po) Tj T* (All ) Tj 0 .501961 0 rg (done) Tj 0 0 0 rg (.) Tj T* (i18n folder missing) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 544.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2+0 10 Tf 12 TL (\300\306\254\205\332\204\367\202\316\251\223\244\205\321) Tj /F2+1 10 Tf 12 TL (\033) Tj /F2+0 10 Tf 12 TL (\224\227\306\236\242) Tj /F2+1 10 Tf 12 TL (\363\364!"#) Tj /F2+0 10 Tf 12 TL (\221\214\215\225\315\264\362\254\241) Tj /F2+1 10 Tf 12 TL (\244) Tj /F2+0 10 Tf 12 TL ( ) Tj /F2+1 10 Tf 12 TL (G\355) Tj /F2+0 10 Tf 12 TL (\303) Tj /F2+1 10 Tf 12 TL (\036\037) Tj /F2+0 10 Tf 12 TL (\305\306\256\240\336\241) Tj T* /F2+1 10 Tf 12 TL (\005) Tj /F2+0 10 Tf 12 TL (\254\227\230) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+% 'R100': class PDFPageLabels 
+100 0 obj
 % Document Root
 << /Nums [ 0
- 81 0 R
+ 101 0 R
  1
- 82 0 R
+ 102 0 R
  2
- 83 0 R
+ 103 0 R
  3
- 84 0 R
+ 104 0 R
  4
- 85 0 R
+ 105 0 R
  5
- 86 0 R
+ 106 0 R
  6
- 87 0 R
+ 107 0 R
  7
- 88 0 R
+ 108 0 R
  8
- 89 0 R
+ 109 0 R
  9
- 90 0 R
+ 110 0 R
  10
- 91 0 R
+ 111 0 R
  11
- 92 0 R
+ 112 0 R
  12
- 93 0 R ] >>
+ 113 0 R
+ 13
+ 114 0 R
+ 14
+ 115 0 R
+ 15
+ 116 0 R
+ 16
+ 117 0 R
+ 17
+ 118 0 R ] >>
 endobj
-% 'R81': class PDFPageLabel 
-81 0 obj
+% 'R101': class PDFPageLabel 
+101 0 obj
 % None
 << /S /D
  /St 1 >>
 endobj
-% 'R82': class PDFPageLabel 
-82 0 obj
+% 'R102': class PDFPageLabel 
+102 0 obj
 % None
 << /S /D
  /St 2 >>
 endobj
-% 'R83': class PDFPageLabel 
-83 0 obj
+% 'R103': class PDFPageLabel 
+103 0 obj
 % None
 << /S /D
  /St 3 >>
 endobj
-% 'R84': class PDFPageLabel 
-84 0 obj
+% 'R104': class PDFPageLabel 
+104 0 obj
 % None
 << /S /D
  /St 4 >>
 endobj
-% 'R85': class PDFPageLabel 
-85 0 obj
+% 'R105': class PDFPageLabel 
+105 0 obj
 % None
 << /S /D
  /St 5 >>
 endobj
-% 'R86': class PDFPageLabel 
-86 0 obj
+% 'R106': class PDFPageLabel 
+106 0 obj
 % None
 << /S /D
  /St 6 >>
 endobj
-% 'R87': class PDFPageLabel 
-87 0 obj
+% 'R107': class PDFPageLabel 
+107 0 obj
 % None
 << /S /D
  /St 7 >>
 endobj
-% 'R88': class PDFPageLabel 
-88 0 obj
+% 'R108': class PDFPageLabel 
+108 0 obj
 % None
 << /S /D
  /St 8 >>
 endobj
-% 'R89': class PDFPageLabel 
-89 0 obj
+% 'R109': class PDFPageLabel 
+109 0 obj
 % None
 << /S /D
  /St 9 >>
 endobj
-% 'R90': class PDFPageLabel 
-90 0 obj
+% 'R110': class PDFPageLabel 
+110 0 obj
 % None
 << /S /D
  /St 10 >>
 endobj
-% 'R91': class PDFPageLabel 
-91 0 obj
+% 'R111': class PDFPageLabel 
+111 0 obj
 % None
 << /S /D
  /St 11 >>
 endobj
-% 'R92': class PDFPageLabel 
-92 0 obj
+% 'R112': class PDFPageLabel 
+112 0 obj
 % None
 << /S /D
  /St 12 >>
 endobj
-% 'R93': class PDFPageLabel 
-93 0 obj
+% 'R113': class PDFPageLabel 
+113 0 obj
 % None
 << /S /D
  /St 13 >>
 endobj
+% 'R114': class PDFPageLabel 
+114 0 obj
+% None
+<< /S /D
+ /St 14 >>
+endobj
+% 'R115': class PDFPageLabel 
+115 0 obj
+% None
+<< /S /D
+ /St 15 >>
+endobj
+% 'R116': class PDFPageLabel 
+116 0 obj
+% None
+<< /S /D
+ /St 16 >>
+endobj
+% 'R117': class PDFPageLabel 
+117 0 obj
+% None
+<< /S /D
+ /St 17 >>
+endobj
+% 'R118': class PDFPageLabel 
+118 0 obj
+% None
+<< /S /D
+ /St 18 >>
+endobj
 xref
-0 94
+0 119
 0000000000 65535 f
 0000000113 00000 n
 0000000278 00000 n
@@ -4828,84 +5908,109 @@ xref
 0000005238 00000 n
 0000005532 00000 n
 0000005786 00000 n
-0000006123 00000 n
-0000009735 00000 n
-0000038216 00000 n
-0000038485 00000 n
-0000040446 00000 n
-0000043566 00000 n
-0000085491 00000 n
-0000085760 00000 n
-0000087561 00000 n
-0000089632 00000 n
-0000099110 00000 n
-0000099376 00000 n
-0000100405 00000 n
-0000100564 00000 n
-0000100839 00000 n
-0000100965 00000 n
-0000101165 00000 n
-0000101433 00000 n
-0000101649 00000 n
-0000101888 00000 n
-0000102128 00000 n
-0000102355 00000 n
-0000102648 00000 n
-0000102824 00000 n
-0000103017 00000 n
-0000103204 00000 n
-0000103466 00000 n
-0000103683 00000 n
-0000103915 00000 n
-0000104091 00000 n
-0000104345 00000 n
-0000104544 00000 n
-0000104858 00000 n
-0000105058 00000 n
-0000105278 00000 n
-0000105493 00000 n
-0000105692 00000 n
-0000106006 00000 n
-0000106218 00000 n
-0000106441 00000 n
-0000106745 00000 n
-0000106952 00000 n
-0000107143 00000 n
-0000107357 00000 n
-0000114748 00000 n
-0000120734 00000 n
-0000128210 00000 n
-0000135044 00000 n
-0000145235 00000 n
-0000156356 00000 n
-0000165839 00000 n
-0000173678 00000 n
-0000184088 00000 n
-0000191998 00000 n
-0000203449 00000 n
-0000210143 00000 n
-0000211441 00000 n
-0000211693 00000 n
-0000211770 00000 n
-0000211847 00000 n
-0000211924 00000 n
-0000212001 00000 n
-0000212078 00000 n
-0000212155 00000 n
-0000212232 00000 n
-0000212309 00000 n
-0000212386 00000 n
-0000212464 00000 n
-0000212542 00000 n
-0000212620 00000 n
+0000006101 00000 n
+0000006355 00000 n
+0000006609 00000 n
+0000006933 00000 n
+0000007181 00000 n
+0000007483 00000 n
+0000007764 00000 n
+0000008045 00000 n
+0000008361 00000 n
+0000011973 00000 n
+0000040454 00000 n
+0000040723 00000 n
+0000042684 00000 n
+0000046176 00000 n
+0000094165 00000 n
+0000094434 00000 n
+0000096452 00000 n
+0000098703 00000 n
+0000109519 00000 n
+0000109785 00000 n
+0000110919 00000 n
+0000111079 00000 n
+0000111354 00000 n
+0000111480 00000 n
+0000111680 00000 n
+0000111948 00000 n
+0000112164 00000 n
+0000112403 00000 n
+0000112643 00000 n
+0000112870 00000 n
+0000113163 00000 n
+0000113339 00000 n
+0000113532 00000 n
+0000113719 00000 n
+0000113981 00000 n
+0000114198 00000 n
+0000114430 00000 n
+0000114606 00000 n
+0000114860 00000 n
+0000115059 00000 n
+0000115378 00000 n
+0000115578 00000 n
+0000115798 00000 n
+0000116013 00000 n
+0000116212 00000 n
+0000116531 00000 n
+0000116743 00000 n
+0000116966 00000 n
+0000117285 00000 n
+0000117492 00000 n
+0000117717 00000 n
+0000117938 00000 n
+0000118170 00000 n
+0000118385 00000 n
+0000118689 00000 n
+0000118903 00000 n
+0000119171 00000 n
+0000119357 00000 n
+0000119616 00000 n
+0000127007 00000 n
+0000132993 00000 n
+0000140469 00000 n
+0000147303 00000 n
+0000157494 00000 n
+0000168615 00000 n
+0000178099 00000 n
+0000185938 00000 n
+0000196349 00000 n
+0000204259 00000 n
+0000215710 00000 n
+0000222638 00000 n
+0000230832 00000 n
+0000239382 00000 n
+0000247699 00000 n
+0000254618 00000 n
+0000259783 00000 n
+0000262180 00000 n
+0000262522 00000 n
+0000262601 00000 n
+0000262680 00000 n
+0000262759 00000 n
+0000262838 00000 n
+0000262917 00000 n
+0000262996 00000 n
+0000263075 00000 n
+0000263154 00000 n
+0000263233 00000 n
+0000263313 00000 n
+0000263393 00000 n
+0000263473 00000 n
+0000263553 00000 n
+0000263633 00000 n
+0000263713 00000 n
+0000263793 00000 n
+0000263873 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\037\207\000\223\2422\232\201\301\216}\012*\030@\225) (\037\207\000\223\2422\232\201\301\216}\012*\030@\225)] 
+ [(\271\354\250\357Ey\240_l\244\337\344\261W\230>) (\271\354\250\357Ey\240_l\244\337\344\261W\230>)] 
 
- /Info 37 0 R
- /Root 36 0 R
- /Size 94 >>
+ /Info 45 0 R
+ /Root 44 0 R
+ /Size 119 >>
 startxref
-212668
+263922
 %%EOF

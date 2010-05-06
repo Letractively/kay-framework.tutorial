@@ -5,11 +5,14 @@
 <title>Top Page - myapp</title>
 </head>
 <body>
+
   <div id="greeting">
     {% if request.user.is_anonymous() %}
-      <a href="{{ create_login_url() }}">login</a>
+      <a href="{{ create_login_url() }}">{{ _('login') }}</a>
     {% else %}
-      Hello {{ request.user }}! <a href="{{ create_logout_url() }}">logout</a>
+      Hello {{ request.user }}! <a href="{{ create_logout_url() }}">
+        {% trans %}logout{% endtrans %}
+      </a>
     {% endif %}
   </div>
 
@@ -23,6 +26,10 @@
       {% for comment in comments %}
         <li>{{ comment.body }}
           <span class="author"> by {{ comment.user }}</span>
+          {% if comment.category %}
+            <br>
+            <span class="category"> in {{ comment.category.name }}</span>
+          {% endif %}
       {% endfor %}
       </ul>
     </div>
