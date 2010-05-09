@@ -2374,7 +2374,7 @@ endobj
 % 'R45': class PDFInfo 
 45 0 obj
 << /Author ()
- /CreationDate (D:20100506172405-09'00')
+ /CreationDate (D:20100509182402-09'00')
  /Keywords ()
  /Producer (ReportLab http://www.reportlab.com)
  /Subject (\(unspecified\))
@@ -2740,7 +2740,7 @@ endobj
  /Next 76 0 R
  /Parent 71 0 R
  /Prev 74 0 R
- /Title (\376\377\000G\000R\000U\000D0n\201\352R\325u\037b\020) >>
+ /Title (\376\377\000C\000R\000U\000D0n\201\352R\325u\037b\020) >>
 endobj
 % 'Outline.41.4': class OutlineEntryObject 
 76 0 obj
@@ -4879,7 +4879,7 @@ endobj
 % 'R93': class PDFStream 
 93 0 obj
 % page stream
-<< /Length 6827 >>
+<< /Length 6829 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -4896,7 +4896,7 @@ q
 n -6 -6 468.6898 360 re B*
 Q
 q
-BT 1 0 0 1 0 339.4 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# -*- coding: utf-8 -*-) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg /F4+0 10 Tf 12 TL (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (google.appengine.ext) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (db) Tj  T*  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.management.utils) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (\() Tj  T* (  ) Tj (print_status) Tj (,) Tj ( ) Tj (create_db_manage_script) Tj  T* (\)) Tj  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (myapp.models) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (Category) Tj  T*  T* (categories) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Programming') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Testing') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Management') Tj 0 0 0 rg (,) Tj  T* (]) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (create_categories) Tj 0 0 0 rg (\(\):) Tj  T* (  ) Tj (entities) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([]) Tj  T* (  ) Tj 0 .501961 0 rg (for) Tj 0 0 0 rg ( ) Tj (name) Tj ( ) Tj .666667 .133333 1 rg (in) Tj 0 0 0 rg ( ) Tj (categories) Tj (:) Tj  T* (    ) Tj (entities) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (append) Tj (\() Tj (Category) Tj (\() Tj (name) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (name) Tj (\)\)) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (put) Tj (\() Tj (entities) Tj (\)) Tj  T* (  ) Tj (print_status) Tj (\() Tj .729412 .129412 .129412 rg ("Categories are created succesfully.") Tj 0 0 0 rg (\)) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (delete_categories) Tj 0 0 0 rg (\(\):) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (delete) Tj (\() Tj (Category) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (all) Tj (\(\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fetch) Tj (\() Tj .4 .4 .4 rg (100) Tj 0 0 0 rg (\)\)) Tj  T* (  ) Tj (print_status) Tj (\() Tj .729412 .129412 .129412 rg ("Categories are deleted succesfully.") Tj 0 0 0 rg (\)) Tj  T*  T* (action_create_categories) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (create_db_manage_script) Tj (\() Tj  T* (  ) Tj (main_func) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (create_categories) Tj (,) Tj ( ) Tj (clean_func) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (delete_categories) Tj (,) Tj  T* (  ) Tj (description) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Create 'Category' entities") Tj 0 0 0 rg (\)) Tj T* ET
+BT 1 0 0 1 0 339.4 Tm 12 TL /F5 10 Tf .25098 .501961 .501961 rg (# -*- coding: utf-8 -*-) Tj 0 0 0 rg  T*  T* 0 .501961 0 rg /F4+0 10 Tf 12 TL (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (google.appengine.ext) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (db) Tj  T*  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (kay.management.utils) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (\() Tj  T* (  ) Tj (print_status) Tj (,) Tj ( ) Tj (create_db_manage_script) Tj  T* (\)) Tj  T* 0 .501961 0 rg (from) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (myapp.models) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (import) Tj 0 0 0 rg ( ) Tj (Category) Tj  T*  T* (categories) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Programming') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Testing') Tj 0 0 0 rg (,) Tj  T* (  ) Tj .729412 .129412 .129412 rg (u'Management') Tj 0 0 0 rg (,) Tj  T* (]) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (create_categories) Tj 0 0 0 rg (\(\):) Tj  T* (  ) Tj (entities) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj ([]) Tj  T* (  ) Tj 0 .501961 0 rg (for) Tj 0 0 0 rg ( ) Tj (name) Tj ( ) Tj .666667 .133333 1 rg (in) Tj 0 0 0 rg ( ) Tj (categories) Tj (:) Tj  T* (    ) Tj (entities) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (append) Tj (\() Tj (Category) Tj (\() Tj (name) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (name) Tj (\)\)) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (put) Tj (\() Tj (entities) Tj (\)) Tj  T* (  ) Tj (print_status) Tj (\() Tj .729412 .129412 .129412 rg ("Categories are created successfully.") Tj 0 0 0 rg (\)) Tj  T*  T* 0 .501961 0 rg (def) Tj 0 0 0 rg ( ) Tj 0 0 1 rg (delete_categories) Tj 0 0 0 rg (\(\):) Tj  T* (  ) Tj (db) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (delete) Tj (\() Tj (Category) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (all) Tj (\(\)) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (fetch) Tj (\() Tj .4 .4 .4 rg (100) Tj 0 0 0 rg (\)\)) Tj  T* (  ) Tj (print_status) Tj (\() Tj .729412 .129412 .129412 rg ("Categories are deleted successfully.") Tj 0 0 0 rg (\)) Tj  T*  T* (action_create_categories) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (create_db_manage_script) Tj (\() Tj  T* (  ) Tj (main_func) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (create_categories) Tj (,) Tj ( ) Tj (clean_func) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (delete_categories) Tj (,) Tj  T* (  ) Tj (description) Tj .4 .4 .4 rg (=) Tj .729412 .129412 .129412 rg ("Create 'Category' entities") Tj 0 0 0 rg (\)) Tj T* ET
 Q
 Q
 Q
@@ -5105,7 +5105,7 @@ Q
 q
 1 0 0 1 62.69291 396.8236 cm
 q
-BT 1 0 0 1 0 5.1 Tm 18 TL 0 0 0 rg /F2+0 15 Tf 18 TL (GRUD\213) Tj /F2+1 15 Tf 18 TL (/) Tj /F2+0 15 Tf 18 TL (\363) Tj /F2+1 15 Tf 18 TL (Z) Tj /F2+0 15 Tf 18 TL (\344) Tj T* ET
+BT 1 0 0 1 0 5.1 Tm 18 TL 0 0 0 rg /F2+0 15 Tf 18 TL (CRUD\213) Tj /F2+1 15 Tf 18 TL (/) Tj /F2+0 15 Tf 18 TL (\363) Tj /F2+1 15 Tf 18 TL (Z) Tj /F2+0 15 Tf 18 TL (\344) Tj T* ET
 Q
 Q
 q
@@ -6071,39 +6071,39 @@ xref
 0000197408 00000 n
 0000205318 00000 n
 0000216769 00000 n
-0000223697 00000 n
-0000231891 00000 n
-0000240441 00000 n
-0000248758 00000 n
-0000256326 00000 n
-0000261876 00000 n
-0000264770 00000 n
-0000265112 00000 n
-0000265191 00000 n
-0000265270 00000 n
-0000265349 00000 n
-0000265428 00000 n
-0000265507 00000 n
-0000265586 00000 n
-0000265665 00000 n
-0000265744 00000 n
-0000265823 00000 n
-0000265903 00000 n
-0000265983 00000 n
-0000266063 00000 n
-0000266143 00000 n
-0000266223 00000 n
-0000266303 00000 n
-0000266383 00000 n
-0000266463 00000 n
+0000223699 00000 n
+0000231893 00000 n
+0000240443 00000 n
+0000248760 00000 n
+0000256328 00000 n
+0000261878 00000 n
+0000264772 00000 n
+0000265114 00000 n
+0000265193 00000 n
+0000265272 00000 n
+0000265351 00000 n
+0000265430 00000 n
+0000265509 00000 n
+0000265588 00000 n
+0000265667 00000 n
+0000265746 00000 n
+0000265825 00000 n
+0000265905 00000 n
+0000265985 00000 n
+0000266065 00000 n
+0000266145 00000 n
+0000266225 00000 n
+0000266305 00000 n
+0000266385 00000 n
+0000266465 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(P\354\260\222\302\276_V\221\177\224\340\312\261>d) (P\354\260\222\302\276_V\221\177\224\340\312\261>d)] 
+ [(\323\302]\307^q\017\243yjM\306[\037\246\327) (\323\302]\307^q\017\243yjM\306[\037\246\327)] 
 
  /Info 45 0 R
  /Root 44 0 R
  /Size 119 >>
 startxref
-266512
+266514
 %%EOF

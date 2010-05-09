@@ -772,11 +772,11 @@ myapp/models.py:
      for name in categories:
        entities.append(Category(name=name))
      db.put(entities)
-     print_status("Categories are created succesfully.")
+     print_status("Categories are created successfully.")
 
    def delete_categories():
      db.delete(Category.all().fetch(100))
-     print_status("Categories are deleted succesfully.")
+     print_status("Categories are deleted successfully.")
 
    action_create_categories = create_db_manage_script(
      main_func=create_categories, clean_func=delete_categories,
@@ -842,7 +842,7 @@ myapp/models.py:
      {% endif %}
 
 
-GRUDの自動生成
+CRUDの自動生成
 ==============
 
 次にこのカテゴリを管理する画面を作成してみます。管理者のみがアクセス可
